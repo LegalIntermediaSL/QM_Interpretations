@@ -50,14 +50,16 @@ Fase de expansion fuerte.
 - Apertura de una pieza especifica sobre espacio-tiempo, espacio de configuracion y su reparto interpretativo entre las principales familias.
 - Apertura de una pieza especifica sobre identidad de particulas, indistinguibilidad y el efecto ontologico del entrelazamiento.
 - Ejecucion completa del siguiente ciclo monografico del repositorio con quince nuevas piezas sobre decoherencia, Born, `psi`, hechos observados, composicionalidad, QFT, localidad relativista, cosmologia cuantica, gravedad cuantica, reconstrucciones, RQM, QBism, historias consistentes, retrocausalidad y Copenhague en detalle.
+- Construccion de la siguiente capa de infraestructura transversal con glosario, cronologia, matriz comparativa avanzada v2 y rutas de lectura por perfiles.
+- Construccion de una capa final de consulta y cruce empirico con una FAQ de fundamentos y un documento de estudios de caso experimentales e interpretativos.
 
 ## Hoja de ruta inmediata
 
-1. Consolidar coherencia terminologica entre la guia maestra y el nuevo bloque `17`-`31`.
-2. Preparar la siguiente capa de infraestructura: glosario, cronologia y matriz comparativa avanzada v2.
+1. Mantener coherencia terminologica entre la guia maestra, el glosario, la FAQ y el bloque `17`-`31`.
+2. Revisar cruces entre QFT, cosmologia y gravedad cuantica para evitar repeticiones innecesarias.
 3. Mantener y seguir ampliando la bibliografia anotada para acompanar futuras revisiones.
-4. Crear rutas de lectura por perfiles para no obligar a todos los lectores a recorrer el corpus completo en el mismo orden.
-5. Revisar cruces entre QFT, cosmologia y gravedad cuantica para evitar repeticiones innecesarias.
+4. Afinar la matriz comparativa v2 y el documento de casos experimentales a medida que crezca la frontera empirica.
+5. Ajustar rutas de lectura por perfiles cuando aparezcan nuevas piezas puente.
 6. Mantener actualizado el frente de desarrollos recientes sin convertir cada preprint nuevo en falsa revolucion.
 
 ## Hoja de ruta concreta
@@ -66,12 +68,12 @@ La hoja de ruta detallada del siguiente ciclo de expansion esta en [hoja-de-ruta
 
 Orden recomendado de ejecucion:
 
-1. Glosario de fundamentos cuanticos.
-2. Cronologia del debate interpretativo.
-3. Matriz comparativa avanzada v2.
-4. Rutas de lectura por perfiles.
-5. Mantenimiento periodico de referencias y desarrollos recientes.
-6. Relectura de consistencia global del corpus tras la expansion `17`-`31`.
+1. Mantenimiento periodico de referencias y desarrollos recientes.
+2. Relectura de consistencia global del corpus tras la expansion `17`-`31`.
+3. Ajustes finos de repeticion entre articulos frontera.
+4. Posible capa futura de preguntas de seminario y objeciones tipicas por familia.
+5. Posible capa futura de bibliografias especificas por articulo.
+6. Seguimiento semestral de la literatura reciente.
 
 ## Decisiones de estructura
 

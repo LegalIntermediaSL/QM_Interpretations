@@ -10,7 +10,7 @@ Las monografias previstas en esta hoja para `17` a `31` ya existen en el reposit
 
 - orden recomendado de lectura profunda
 - criterio para futuras revisiones y ampliaciones
-- backlog de infraestructura editorial transversal todavia pendiente
+- registro de prioridades ya ejecutadas y de mantenimiento futuro
 
 ## Criterio de orden
 
@@ -313,7 +313,14 @@ Objetivo:
 
 ## Fase 4: Infraestructura editorial de alto valor
 
-Esta fase no sustituye articulos. Los vuelve mas usables.
+Esta fase no sustituye articulos. Los vuelve mas usables. Su primera version ya esta ejecutada en el repositorio mediante:
+
+- `docs/glosario-fundamentos-cuanticos.md`
+- `docs/cronologia-del-debate-interpretativo.md`
+- `docs/matriz-comparativa-avanzada-v2.md`
+- `docs/rutas-de-lectura-por-perfiles.md`
+- `docs/preguntas-frecuentes-de-fundamentos-cuanticos.md`
+- `docs/estudios-de-caso-experimentales-e-interpretacion.md`
 
 ### Prioridad 16
 

@@ -4,6 +4,8 @@
 
 Este documento ofrece una comparacion transversal de las principales interpretaciones y programas. No sustituye a los articulos largos del repositorio. Sirve como instrumento de estudio, repaso y cruce conceptual.
 
+Si ya conoces este mapa base y quieres una comparacion con mas ejes, continua en [Matriz comparativa avanzada v2](matriz-comparativa-avanzada-v2.md).
+
 ## Como leer esta matriz
 
 - No todas las filas son igualmente decisivas para todos los lectores.

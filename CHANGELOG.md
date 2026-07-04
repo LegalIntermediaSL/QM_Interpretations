@@ -16,6 +16,12 @@ El formato sigue una estructura sencilla inspirada en Keep a Changelog, adaptada
 - Nueva bibliografia profesional anotada en [docs/referencias-anotadas.md](docs/referencias-anotadas.md).
 - Nueva [hoja de ruta editorial profunda](docs/hoja-de-ruta-editorial-profunda.md) con orden concreto de expansion, prioridades y nombres sugeridos de futuras monografias.
 - Nueva [matriz comparativa avanzada](docs/matriz-comparativa-avanzada.md) para consulta transversal.
+- Nueva [matriz comparativa avanzada v2](docs/matriz-comparativa-avanzada-v2.md) con ejes adicionales sobre `psi`, relatividad, QFT, cosmologia, identidad y composicionalidad.
+- Nuevo [glosario de fundamentos cuanticos](docs/glosario-fundamentos-cuanticos.md) para estabilizar vocabulario tecnico y filosofico del corpus.
+- Nueva [cronologia del debate interpretativo](docs/cronologia-del-debate-interpretativo.md) para ordenar historicamente problemas, familias y desplazamientos conceptuales.
+- Nuevas [rutas de lectura por perfiles](docs/rutas-de-lectura-por-perfiles.md) para orientar recorridos distintos segun intereses ontologicos, pragmaticos, experimentales o filosoficos.
+- Nueva [FAQ de fundamentos cuanticos](docs/preguntas-frecuentes-de-fundamentos-cuanticos.md) para resolver dudas recurrentes sin sacrificar rigor conceptual.
+- Nuevo documento de [estudios de caso experimentales e interpretacion](docs/estudios-de-caso-experimentales-e-interpretacion.md) para cruzar experimentos clave con sus lecturas interpretativas.
 - Nuevo articulo introductorio sobre multiverso, multiples historias y la hipotesis de simulacion.
 - Nuevo articulo fundacional sobre que significa una interpretacion cuantica y que compromisos supone.
 - Nuevo articulo sobre que se entiende por "realidad" en la fisica actual.
@@ -41,6 +47,8 @@ El formato sigue una estructura sencilla inspirada en Keep a Changelog, adaptada
 - El bloque geometrico-conceptual se amplio con una pieza separada sobre espacio-tiempo, configuracion y relatividad interpretativa.
 - El bloque ontologico-conceptual se amplio con una pieza separada sobre identidad, indistinguibilidad y el papel del entrelazamiento.
 - La hoja de ruta editorial profunda paso de ser solo plan de trabajo a funcionar tambien como registro del orden de lectura y revision del nuevo corpus `17`-`31`.
+- La infraestructura transversal del repositorio se amplio con herramientas de navegacion, comparacion y lectura escalonada.
+- La infraestructura transversal se amplio tambien con una capa de consulta rapida y de cruce entre fundamentos y casos experimentales.
 
 ### Editorial
 

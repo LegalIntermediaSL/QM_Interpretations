@@ -43,6 +43,12 @@ Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de 
 - [Retrocausalidad, transaccional y superdeterminismo](articulos/30-retrocausalidad-transaccional-y-superdeterminismo.md)
 - [Copenhague, Bohr, Heisenberg y lecturas tardias](articulos/31-copenhague-bohr-heisenberg-y-lecturas-tardias.md)
 - [Matriz comparativa avanzada](matriz-comparativa-avanzada.md)
+- [Matriz comparativa avanzada v2](matriz-comparativa-avanzada-v2.md)
+- [Glosario de fundamentos cuanticos](glosario-fundamentos-cuanticos.md)
+- [Cronologia del debate interpretativo](cronologia-del-debate-interpretativo.md)
+- [Rutas de lectura por perfiles](rutas-de-lectura-por-perfiles.md)
+- [Preguntas frecuentes de fundamentos cuanticos](preguntas-frecuentes-de-fundamentos-cuanticos.md)
+- [Estudios de caso experimentales e interpretacion](estudios-de-caso-experimentales-e-interpretacion.md)
 - [Referencias anotadas para interpretaciones de la mecanica cuantica](referencias-anotadas.md)
 - [Hoja de ruta editorial profunda](hoja-de-ruta-editorial-profunda.md)
 
@@ -51,6 +57,8 @@ Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de 
 - Esta guia ofrece el mapa general, las comparativas y el hilo pedagogico de conjunto.
 - Los articulos largos desarrollan con mucha mas profundidad los argumentos, objeciones y tensiones internas de cada familia.
 - La [bitacora editorial](bitacora.md) registra decisiones, prioridades y criterios de crecimiento del proyecto.
+- El glosario, la cronologia, las rutas de lectura y la matriz v2 ayudan a usar el corpus sin perderse en el volumen.
+- La FAQ y los estudios de caso ayudan a pasar del mapa conceptual a consultas puntuales y a cruces con resultados experimentales.
 
 ## Nota de alcance
 

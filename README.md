@@ -6,9 +6,15 @@ Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las i
 
 - [Guia extensa de las interpretaciones de la mecanica cuantica](docs/guia-interpretaciones-mecanica-cuantica.md)
 - [Matriz comparativa avanzada](docs/matriz-comparativa-avanzada.md)
+- [Matriz comparativa avanzada v2](docs/matriz-comparativa-avanzada-v2.md)
 - [Bitacora del proyecto](docs/bitacora.md)
 - [Referencias anotadas](docs/referencias-anotadas.md)
 - [Hoja de ruta editorial profunda](docs/hoja-de-ruta-editorial-profunda.md)
+- [Glosario de fundamentos cuanticos](docs/glosario-fundamentos-cuanticos.md)
+- [Cronologia del debate interpretativo](docs/cronologia-del-debate-interpretativo.md)
+- [Rutas de lectura por perfiles](docs/rutas-de-lectura-por-perfiles.md)
+- [Preguntas frecuentes de fundamentos cuanticos](docs/preguntas-frecuentes-de-fundamentos-cuanticos.md)
+- [Estudios de caso experimentales e interpretacion](docs/estudios-de-caso-experimentales-e-interpretacion.md)
 - [CHANGELOG](CHANGELOG.md)
 
 ## Articulos en desarrollo profundo
@@ -48,11 +54,13 @@ Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las i
 
 ## Enfoque
 
-El repositorio combina tres niveles de lectura:
+El repositorio combina cuatro niveles de lectura:
 
 - una guia maestra que da el mapa general
 - una serie de articulos largos que profundizan cada familia
 - una bitacora editorial que deja constancia del proceso de expansion
+- una infraestructura transversal con glosario, cronologia, matrices y rutas de lectura
+- una capa final de FAQ y estudios de caso para convertir el corpus en herramienta de consulta
 
 ## Nota de alcance
 
