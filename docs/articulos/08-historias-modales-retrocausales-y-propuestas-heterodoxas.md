@@ -248,6 +248,15 @@ El debate real es mas rico, y tambien mas desigual en madurez.
 - Aharonov y Vaidman para el frente de dos estados.
 - revisiones contemporaneas sobre superdeterminismo.
 
+## 31. Por que este articulo ahora se desdobla
+
+Con el crecimiento del repositorio, este texto deja de cargar en solitario con dos frentes conceptuales muy distintos:
+
+- [Historias consistentes y marcos decoherentes](29-historias-consistentes-y-marcos-decoherentes.md), para la familia que reorganiza la teoria en torno a historias, consistencia y sistemas cerrados.
+- [Retrocausalidad, transaccional y superdeterminismo](30-retrocausalidad-transaccional-y-superdeterminismo.md), para las estrategias que redistribuyen el coste de Bell hacia tiempo, causalidad e independencia estadistica.
+
+La descompresion no debilita este articulo. Lo vuelve mas honesto: sigue siendo la vista panoramica del bloque heterodoxo, mientras que las dos nuevas piezas absorben la precision que antes no cabia aqui.
+
 ## Cierre
 
 Estas familias no son notas a pie de pagina. Son laboratorios conceptuales del debate cuantico. Algunas ofrecen herramientas tecnicas valiosas, otras mapas causales alternativos, otras programas ontologicos incompletos pero sugerentes. Leerlas con seriedad no garantiza que una de ellas sea la respuesta final, pero si evita una vision empobrecida y demasiado escolar del espacio interpretativo.

@@ -277,6 +277,14 @@ Este articulo conviene especialmente a quien ya conoce las grandes interpretacio
 - Pusey, Barrett y Rudolph, *On the reality of the quantum state*.
 - revisiones modernas sobre Bell y contextualidad.
 
+## 24. Del frente no-go a la arquitectura relativista
+
+Este articulo sigue siendo el suelo logico del debate, pero el repositorio ya lo prolonga en tres direcciones que antes quedaban solo insinuadas:
+
+- [Separabilidad, composicionalidad y sistemas cuanticos compuestos](21-separabilidad-composicionalidad-y-sistemas-cuanticos-compuestos.md), para distinguir Bell de la cuestion mas general sobre partes, todo y no separabilidad.
+- [Localidad, causalidad y covarianza relativista](23-localidad-causalidad-y-covarianza-relativista.md), para separar con cuidado no-signalling, localidad ontologica, Bell locality y coste relativista.
+- [Retrocausalidad, transaccional y superdeterminismo](30-retrocausalidad-transaccional-y-superdeterminismo.md), para seguir las estrategias no estandar que intentan redistribuir el precio de Bell hacia el tiempo o la independencia estadistica.
+
 ## Cierre
 
 Los teoremas de no-go no sustituyen a las interpretaciones, pero disciplinan el espacio en el que esas interpretaciones pueden moverse. Son la razon por la que el debate ya no puede contentarse con reconstrucciones clasicas ingenuas ni con intuiciones poco explicitadas. En ese sentido, constituyen la columna vertebral logica de los fundamentos cuanticos contemporaneos.

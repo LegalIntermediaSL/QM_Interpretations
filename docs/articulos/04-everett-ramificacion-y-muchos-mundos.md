@@ -213,6 +213,15 @@ Everett suele atraer a quien:
 - comparaciones con historias consistentes
 - tratamientos del amigo de Wigner
 
+## 22. La segunda capa everettiana del repositorio
+
+Everett es una de las familias que mas se beneficia del nuevo bloque monografico del repositorio, porque varias de sus dificultades centrales ya no quedan repartidas entre alusiones dispersas:
+
+- [Decoherencia, bases preferidas y mundo clasico](17-decoherencia-bases-preferidas-y-mundo-clasico.md), para el problema de ramas efectivas y mundo clasico emergente.
+- [Probabilidad, regla de Born y significado del azar cuantico](18-probabilidad-regla-de-born-y-significado-del-azar-cuantico.md), para decision theory, pesos de rama e incertidumbre autocentrada.
+- [Hechos observados, amigo de Wigner y autorreferencia](20-hechos-observados-amigo-de-wigner-y-autorreferencia.md), para la cuestion de hechos no absolutos y universalidad de la teoria.
+- [Cosmologia cuantica y universo como sistema cerrado](24-cosmologia-cuantica-y-universo-como-sistema-cerrado.md), donde la ventaja everettiana de una dinamica universal se vuelve especialmente visible.
+
 ## Cierre
 
 Everett no simplifica la mecanica cuantica en el sentido cotidiano. La simplifica en el nivel de las leyes y la complica en el nivel de la imagen del mundo. Esa inversion del coste es precisamente lo que la convierte en una de las grandes opciones del debate: austera en dinamica, exuberante en ontologia efectiva y desafiante en probabilidad.

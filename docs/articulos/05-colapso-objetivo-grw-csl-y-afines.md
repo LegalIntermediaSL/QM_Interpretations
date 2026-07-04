@@ -230,6 +230,15 @@ Esta familia suele convencer a quien:
 - formulaciones relativistas o de campos
 - comparaciones con decoherencia pura
 
+## 21. La segunda capa del colapso objetivo
+
+El corpus actual permite ya seguir la familia GRW-CSL en cuatro direcciones que antes estaban demasiado juntas:
+
+- [Decoherencia, bases preferidas y mundo clasico](17-decoherencia-bases-preferidas-y-mundo-clasico.md), para separar con precision lo que una teoria de colapso gana respecto de la sola decoherencia.
+- [Probabilidad, regla de Born y significado del azar cuantico](18-probabilidad-regla-de-born-y-significado-del-azar-cuantico.md), para la diferencia entre azar fundamental y azar efectivo.
+- [Interpretaciones y teoria cuantica de campos](22-interpretaciones-y-teoria-cuantica-de-campos.md) y [Localidad, causalidad y covarianza relativista](23-localidad-causalidad-y-covarianza-relativista.md), para el problema de colapso relativista, flashes y QFT.
+- [Desarrollos recientes en fundamentos e interpretaciones cuanticas](13-desarrollos-recientes-en-fundamentos-e-interpretaciones-cuanticas.md), para seguir el frente experimental que esta familia ha ayudado a volver especialmente fecundo.
+
 ## Cierre
 
 Las teorias de colapso objetivo son la apuesta mas directa del tablero. No reinterpretan la medicion: la convierten en dinamica. Eso las hace costosas, valientes y especialmente importantes. Si alguna vez el problema de la medicion encuentra una solucion empiricamente discriminable, esta familia estara entre las candidatas mas naturales para haber anticipado el camino.

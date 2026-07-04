@@ -205,6 +205,17 @@ Si tras leer este articulo sientes que la familia acierta al diagnosticar el lim
 - [Everett, ramificacion y muchos mundos](04-everett-ramificacion-y-muchos-mundos.md)
 - [Colapso objetivo: GRW, CSL y propuestas afines](05-colapso-objetivo-grw-csl-y-afines.md)
 
+## 21. Por que este articulo ahora se descomprime
+
+Este texto sigue siendo util como mapa compacto de la familia, pero el repositorio ya contiene una segunda pieza dedicada a separar con mas cuidado:
+
+- Bohr y la complementariedad
+- Heisenberg y sus acentos propios
+- la ortodoxia de manual
+- ensemble e instrumentalismos tardios
+
+Ese desarrollo adicional esta en [Copenhague, Bohr, Heisenberg y lecturas tardias](31-copenhague-bohr-heisenberg-y-lecturas-tardias.md). La razon de esta descompresion es simple: `Copenhague` nombra demasiadas cosas distintas como para que un solo articulo corto siga cargando con toda la precision historica y filosofica necesaria.
+
 ## Cierre
 
 La familia de Copenhague e instrumental no es una reliquia fosil. Es el recordatorio continuo de que el exito empirico de la mecanica cuantica no garantiza una lectura ontologica transparente. Su debilidad es justamente su fuerza: sabe frenar donde otras interpretaciones avanzan con mas valentia, pero tambien con mas coste.

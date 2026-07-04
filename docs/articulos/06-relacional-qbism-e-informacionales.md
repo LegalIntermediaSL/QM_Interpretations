@@ -198,6 +198,16 @@ Suelen atraer a quien:
 - literatura sobre PBR y modelos psi-epistemicos
 - reconstrucciones informacionales de la mecanica cuantica
 
+## 21. Por que este bloque ahora se divide
+
+Este articulo sigue siendo util como mapa de familia, pero el repositorio ya distingue tres lineas que aqui aparecian demasiado comprimidas:
+
+- [RQM en detalle: hechos relativos y consistencia intersubjetiva](27-rqm-en-detalle-hechos-relativos-y-consistencia-intersubjetiva.md), para la pregunta por hechos relativos y mundo compartido.
+- [QBism en detalle: agencia, probabilidad y realidad](28-qbism-en-detalle-agencia-probabilidad-y-realidad.md), para la lectura personalista de Born, accion y experiencia.
+- [Reconstrucciones informacionales y quantum from principles](26-reconstrucciones-informacionales-y-quantum-from-principles.md), para separar el frente reconstructivo del frente estrictamente QBista.
+
+Esta descompresion era necesaria porque `relacional`, `QBism` e `informacional` comparten algunas sospechas sobre absolutos clasicos, pero no hacen el mismo trabajo teorico ni pagan el mismo precio conceptual.
+
 ## Cierre
 
 Las familias relacional, QBista e informacional no eliminan el misterio cuantico. Lo trasladan al lugar donde creen que pertenece de verdad: no al interior de objetos ocultos, sino al modo en que hechos, relaciones, agentes y restricciones normativas se entretejen en la estructura misma de la teoria. Para algunos, esto es una ganancia decisiva en claridad conceptual. Para otros, una renuncia a decir con firmeza que hay en el mundo. Justamente ahi reside su interes.

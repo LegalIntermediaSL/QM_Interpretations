@@ -363,6 +363,16 @@ Este articulo sirve especialmente para lectores que:
 - Nick Bostrom, *Are You Living in a Computer Simulation?*
 - revisiones sobre historias consistentes de Griffiths, Omnes, Gell-Mann y Hartle.
 
+## 30. Multiverso despues de la separacion fina del corpus
+
+La ampliacion del repositorio vuelve este articulo aun mas importante como pieza de desambiguacion. Ahora puede leerse en cruce directo con:
+
+- [Everett, ramificacion y muchos mundos](04-everett-ramificacion-y-muchos-mundos.md), para la lectura cuantica de ramificacion.
+- [Historias consistentes y marcos decoherentes](29-historias-consistentes-y-marcos-decoherentes.md), para el significado tecnico de `multiples historias`.
+- [Cosmologia cuantica y universo como sistema cerrado](24-cosmologia-cuantica-y-universo-como-sistema-cerrado.md), para la version propiamente cosmologica del problema.
+
+Eso permite fijar con mucha mas claridad el punto de este texto: no defender una sola metafisica del multiverso, sino impedir que palabras vecinas pero no identicas sigan mezclandose sin control.
+
 ## Cierre
 
 Multiverso, multiples historias y simulacion no son sinonimos elegantes para la misma intuicion. Son ideas de distinta procedencia, distinto estatus y distinta fuerza teorica. El primer paso para pensar con rigor sobre ellas es no confundir sus niveles: cosmologia, interpretacion cuantica y metafisica especulativa. A partir de ahi, el debate se vuelve mucho mas interesante y mucho menos nebuloso.

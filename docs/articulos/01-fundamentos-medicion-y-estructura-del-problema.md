@@ -282,6 +282,18 @@ Esas preguntas son el puente hacia los articulos especializados del repositorio.
 - Para una solucion dinamica del problema de la medicion, ve a [Colapso objetivo: GRW, CSL y propuestas afines](05-colapso-objetivo-grw-csl-y-afines.md).
 - Para enfoques relacionales, epistemicos e informacionales, ve a [Relacional, QBism y enfoques informacionales](06-relacional-qbism-e-informacionales.md).
 
+## 22. La segunda capa que abre este articulo
+
+El mapa base de fundamentos ya no termina en las grandes familias clasicas del repositorio. De este articulo salen ahora, de manera explicita, cinco nudos transversales que ya tienen monografia propia:
+
+- [Decoherencia, bases preferidas y mundo clasico](17-decoherencia-bases-preferidas-y-mundo-clasico.md), para distinguir transicion cuantico-clasica de solucion completa de la medicion.
+- [Probabilidad, regla de Born y significado del azar cuantico](18-probabilidad-regla-de-born-y-significado-del-azar-cuantico.md), para separar problema de resultados del problema probabilistico.
+- [La funcion de onda: estatuto ontologico, semantico y nomologico](19-la-funcion-de-onda-estatuto-ontologico-semantico-y-nomologico.md), para dejar de tratar `psi` como un asunto lateral.
+- [Hechos observados, amigo de Wigner y autorreferencia](20-hechos-observados-amigo-de-wigner-y-autorreferencia.md), para precisar que significa exactamente un hecho en un marco cuantico universal.
+- [Separabilidad, composicionalidad y sistemas cuanticos compuestos](21-separabilidad-composicionalidad-y-sistemas-cuanticos-compuestos.md), para mostrar que el problema de la medicion tambien es un problema sobre como se compone el mundo.
+
+Eso cambia el papel de este texto dentro del corpus. Sigue siendo la puerta de entrada al problema, pero ya no carga solo con toda la segunda capa conceptual.
+
 ## Cierre
 
 La pregunta por las interpretaciones de la mecanica cuantica no nace de una aficion exotica por la filosofia. Nace de un hecho simple: el formalismo funciona de una manera que choca con varias intuiciones muy profundas sobre realidad, causalidad, probabilidad y observacion. Comprender ese choque es el primer paso para leer con seriedad el resto del debate.

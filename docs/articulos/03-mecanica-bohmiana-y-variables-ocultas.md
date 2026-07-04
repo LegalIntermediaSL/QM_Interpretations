@@ -227,6 +227,15 @@ Si este articulo te parece persuasivo, merece la pena cruzarlo con:
 - discusiones sobre particulas identicas, indistinguibilidad e identidad
 - comparaciones con GRW y Everett
 
+## 20. La segunda capa bohmiana del repositorio
+
+El crecimiento reciente del corpus permite desdoblar cuatro problemas que en Bohm estaban antes demasiado comprimidos dentro de un mismo paquete:
+
+- [Probabilidad, regla de Born y significado del azar cuantico](18-probabilidad-regla-de-born-y-significado-del-azar-cuantico.md), para la pregunta por tipicidad y equilibrio cuantico.
+- [La funcion de onda: estatuto ontologico, semantico y nomologico](19-la-funcion-de-onda-estatuto-ontologico-semantico-y-nomologico.md), para distinguir mejor entre `psi` como ley, como estructura y como entidad fisica.
+- [Separabilidad, composicionalidad y sistemas cuanticos compuestos](21-separabilidad-composicionalidad-y-sistemas-cuanticos-compuestos.md), para la tension entre particulas reales y dinamica global no local.
+- [Interpretaciones y teoria cuantica de campos](22-interpretaciones-y-teoria-cuantica-de-campos.md) y [Localidad, causalidad y covarianza relativista](23-localidad-causalidad-y-covarianza-relativista.md), para el frente donde Bohm gana nitidez ontologica y paga su precio relativista mas alto.
+
 ## Cierre
 
 La mecanica bohmiana no hace la mecanica cuantica menos extrana. La hace extrana de otra manera. Cambia vaguedad por estructura, colapso por configuracion efectiva y misterio operacional por no localidad explicita. Esa sustitucion es, para muchos, una ganancia enorme. Para otros, un precio demasiado alto. Justamente por eso sigue siendo una de las interpretaciones mas importantes del debate.
