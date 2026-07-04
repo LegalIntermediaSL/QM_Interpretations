@@ -407,6 +407,7 @@ Por eso comprender la palabra "realidad" en fisica actual es casi una condicion 
 ## 25. Puentes hacia otros articulos
 
 - Para la pregunta por que es una interpretacion, ve a [Que significa una interpretacion cuantica](00-que-significa-una-interpretacion-cuantica.md).
+- Para una profundizacion mas estrictamente ontologica, ve a [Ontologia y significado de la realidad en fundamentos cuanticos](14-ontologia-y-significado-de-la-realidad-en-fundamentos-cuanticos.md).
 - Para la tension cuantica especifica, ve a [Fundamentos, medicion y estructura del problema](01-fundamentos-medicion-y-estructura-del-problema.md).
 - Para los limites que imponen Bell y contextualidad, ve a [Bell, contextualidad y teoremas de no-go](07-bell-contextualidad-y-teoremas-de-no-go.md).
 - Para multiverso y simulacion, ve a [Introduccion al multiverso, las multiples historias y la simulacion](09-multiverso-muchas-historias-y-simulacion.md).

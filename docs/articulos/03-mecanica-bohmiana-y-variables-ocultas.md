@@ -224,6 +224,7 @@ Si este articulo te parece persuasivo, merece la pena cruzarlo con:
 - Bell y no localidad
 - teoria cuantica de campos bohmiana
 - discusiones sobre equilibrio cuantico y tipicidad
+- discusiones sobre particulas identicas, indistinguibilidad e identidad
 - comparaciones con GRW y Everett
 
 ## Cierre

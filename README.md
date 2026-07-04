@@ -8,6 +8,7 @@ Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las i
 - [Matriz comparativa avanzada](docs/matriz-comparativa-avanzada.md)
 - [Bitacora del proyecto](docs/bitacora.md)
 - [Referencias anotadas](docs/referencias-anotadas.md)
+- [Hoja de ruta editorial profunda](docs/hoja-de-ruta-editorial-profunda.md)
 - [CHANGELOG](CHANGELOG.md)
 
 ## Articulos en desarrollo profundo
@@ -23,6 +24,12 @@ Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las i
 - [Historias, modales, retrocausales y propuestas heterodoxas](docs/articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
 - [Introduccion al multiverso, las multiples historias y la simulacion](docs/articulos/09-multiverso-muchas-historias-y-simulacion.md)
 - [Que se entiende por realidad en la fisica actual](docs/articulos/10-que-se-entiende-por-realidad-en-la-fisica-actual.md)
+- [Observador, conciencia y medicion en mecanica cuantica](docs/articulos/11-observador-conciencia-y-medicion-en-mecanica-cuantica.md)
+- [Tiempo, fase y estructura temporal en mecanica cuantica](docs/articulos/12-tiempo-fase-y-estructura-temporal-en-mecanica-cuantica.md)
+- [Desarrollos recientes en fundamentos e interpretaciones cuanticas](docs/articulos/13-desarrollos-recientes-en-fundamentos-e-interpretaciones-cuanticas.md)
+- [Ontologia y significado de la realidad en fundamentos cuanticos](docs/articulos/14-ontologia-y-significado-de-la-realidad-en-fundamentos-cuanticos.md)
+- [Dimensiones del espacio-tiempo y su relacion con las interpretaciones cuanticas](docs/articulos/15-dimensiones-del-espacio-tiempo-y-su-relacion-con-las-interpretaciones.md)
+- [Identidad de particulas, indistinguibilidad y entrelazamiento](docs/articulos/16-identidad-de-particulas-indistinguibilidad-y-entrelazamiento.md)
 
 ## Enfoque
 

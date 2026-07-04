@@ -257,7 +257,81 @@ Dialoga con:
 - teoria de la computacion
 - escepticismo epistemologico
 
-## 21. Que no conviene hacer
+## 21. Que interpretaciones se cruzan de verdad con el lenguaje de multiverso
+
+No todas las interpretaciones se relacionan del mismo modo con esa palabra.
+
+| Familia | Relacion con la idea de multiverso | Comentario breve |
+| --- | --- | --- |
+| Everett | muy fuerte | la ramificacion del estado total invita al lenguaje de muchos mundos |
+| Historias consistentes | parcial y delicada | habla de historias y marcos, no necesariamente de un multiverso literal |
+| Bohm | debil | no necesita multiplicar mundos, aunque use una funcion de onda global rica |
+| GRW / CSL | muy debil | buscan precisamente una sola realidad efectiva con colapso real |
+| RQM | debil | relativiza hechos, no introduce un multiverso ontologico clasico |
+| QBism | muy debil | reformula el estado como herramienta normativa, no como proliferacion de universos |
+
+Esta tabla ya permite evitar un error frecuente:
+
+- usar `multiverso` como cajon de sastre para cualquier interpretacion no clasica
+
+## 22. Everett y multiverso: parentesco fuerte, identidad incompleta
+
+Everett es el caso donde la asociacion con multiverso tiene mas fuerza. Aun asi, conviene distinguir:
+
+- la formulacion tecnica de estado relativo y ramificacion
+- la imagen popular de universos completos que "se dividen"
+
+La literatura everettiana mas seria suele insistir en que:
+
+- no siempre hace falta hipostasiar cada rama como un universo separado en sentido cosmologico
+- muchas veces basta hablar de estructura ramificada, mundos efectivos o sectores decoherentes
+
+El parentesco con el lenguaje de multiverso es real, pero no elimina todos los matices ontologicos.
+
+## 23. Un multiverso cosmologico no resuelve por si solo la medicion
+
+Aqui conviene ser tajante. Aunque la cosmologia contemple:
+
+- inflacion eterna
+- burbujas causales desconectadas
+- horizontes que no agotan toda la realidad
+
+eso no resuelve automaticamente preguntas como:
+
+- que representa `psi`
+- por que vemos resultados definidos
+- que estatuto tiene el colapso
+
+Un multiverso cosmologico puede coexistir con lecturas cuanticas muy distintas. No sustituye una interpretacion.
+
+## 24. Antropia, seleccion observacional y medida
+
+El lenguaje de multiverso suele entrar tambien por la puerta antropica. En ciertos escenarios, la idea es que:
+
+- hay muchos dominios con parametros distintos
+- solo algunos permiten observadores complejos
+- nosotros observamos uno de esos dominios porque, de otro modo, no estariamos aqui
+
+Este frente puede ser conceptualmente util, pero tambien es peligroso. Si no se lo maneja con cuidado:
+
+- mezcla explicacion cosmologica con seleccion observacional
+- y despues desliza esa mezcla hacia interpretacion cuantica sin justificacion suficiente
+
+## 25. Donde el vocabulario de multiverso aclara y donde oscurece
+
+Aclara cuando:
+
+- distingue cosmologia de interpretacion cuantica
+- separa ramas decoherentes de universos inflacionarios
+- obliga a especificar el nivel del que se habla
+
+Oscurece cuando:
+
+- convierte en "realidades paralelas" cualquier estructura matematica no clasica
+- hace pasar por evidencia fisica lo que es imagen metaforica
+- mezcla escenarios altamente especulativos con resultados experimentales bien asentados
+
+## 26. Que no conviene hacer
 
 No conviene:
 
@@ -266,7 +340,7 @@ No conviene:
 - vender la hipotesis de simulacion como si fuera una conclusion establecida de la fisica
 - mezclar especulacion filosofica con resultado experimental sin advertirlo
 
-## 22. Para quien es util esta introduccion
+## 27. Para quien es util esta introduccion
 
 Este articulo sirve especialmente para lectores que:
 
@@ -274,16 +348,18 @@ Este articulo sirve especialmente para lectores que:
 - han oido estos terminos en bloque
 - quieren separar cosmologia, interpretacion cuantica y metafisica tecnologica
 
-## 23. Puentes hacia el resto del repositorio
+## 28. Puentes hacia el resto del repositorio
 
 - Para la familia de muchos mundos, ve a [Everett, ramificacion y muchos mundos](04-everett-ramificacion-y-muchos-mundos.md).
 - Para historias consistentes y propuestas afines, ve a [Historias, modales, retrocausales y propuestas heterodoxas](08-historias-modales-retrocausales-y-propuestas-heterodoxas.md).
+- Para una foto mas actual del frente experimental y conceptual, ve a [Desarrollos recientes en fundamentos e interpretaciones cuanticas](13-desarrollos-recientes-en-fundamentos-e-interpretaciones-cuanticas.md).
 - Para una comparacion mas transversal, ve a [Matriz comparativa avanzada](../matriz-comparativa-avanzada.md).
 - Para referencias de apoyo, ve a [Referencias anotadas](../referencias-anotadas.md).
 
-## 24. Referencias minimas para orientarse
+## 29. Referencias minimas para orientarse
 
 - Max Tegmark, *Parallel Universes*.
+- David Wallace, *The Emergent Multiverse*.
 - Nick Bostrom, *Are You Living in a Computer Simulation?*
 - revisiones sobre historias consistentes de Griffiths, Omnes, Gell-Mann y Hartle.
 

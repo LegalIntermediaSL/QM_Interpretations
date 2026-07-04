@@ -42,14 +42,35 @@ Fase de expansion fuerte.
 - Incorporacion de un articulo puente para separar con claridad multiverso cosmologico, muchas historias cuanticas y simulacion.
 - Incorporacion de un articulo de base sobre el concepto mismo de interpretacion cuantica y sus supuestos.
 - Incorporacion de un articulo de marco filosofico-fisico sobre el sentido de "realidad" en la fisica actual.
+- Apertura de un bloque monografico sobre observador, conciencia y estatuto de los hechos observados.
+- Apertura de un bloque monografico sobre tiempo, fase y estructura temporal en cuantica.
+- Incorporacion de una pieza de seguimiento sobre desarrollos recientes del frente experimental y conceptual a fecha de 4 de julio de 2026.
+- Ampliacion del articulo sobre multiverso para conectarlo mas directamente con las interpretaciones de la mecanica cuantica.
+- Apertura de una pieza complementaria sobre ontologia cuantica y el significado de decir que una teoria "pone algo en lo real".
+- Apertura de una pieza especifica sobre espacio-tiempo, espacio de configuracion y su reparto interpretativo entre las principales familias.
+- Apertura de una pieza especifica sobre identidad de particulas, indistinguibilidad y el efecto ontologico del entrelazamiento.
 
 ## Hoja de ruta inmediata
 
 1. Completar articulos largos para las familias principales.
 2. Revisar consistencia terminologica entre guia y articulos.
 3. Anadir tablas de cruce entre interpretaciones.
-4. Preparar una futura capa de bibliografia ampliada con referencias primarias y secundarias.
+4. Mantener y seguir ampliando la bibliografia anotada para acompanar las nuevas monografias.
 5. Seguir desagregando, si hace falta, familias muy densas en monografias aun mas especificas.
+6. Mantener actualizado el frente de desarrollos recientes sin convertir cada preprint nuevo en falsa revolucion.
+
+## Hoja de ruta concreta
+
+La hoja de ruta detallada del siguiente ciclo de expansion esta en [hoja-de-ruta-editorial-profunda.md](hoja-de-ruta-editorial-profunda.md).
+
+Orden recomendado de ejecucion:
+
+1. Decoherencia, bases preferidas y mundo clasico.
+2. Probabilidad, regla de Born y significado del azar cuantico.
+3. Funcion de onda: estatuto ontologico, semantico y nomologico.
+4. Hechos observados, amigo de Wigner y autorreferencia.
+5. Separabilidad, composicionalidad y sistemas cuanticos compuestos.
+6. QFT, localidad relativista, cosmologia cuantica y gravedad cuantica.
 
 ## Decisiones de estructura
 

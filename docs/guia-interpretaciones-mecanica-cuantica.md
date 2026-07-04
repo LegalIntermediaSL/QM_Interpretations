@@ -21,6 +21,12 @@ Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de 
 - [Historias, modales, retrocausales y propuestas heterodoxas](articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
 - [Introduccion al multiverso, las multiples historias y la simulacion](articulos/09-multiverso-muchas-historias-y-simulacion.md)
 - [Que se entiende por realidad en la fisica actual](articulos/10-que-se-entiende-por-realidad-en-la-fisica-actual.md)
+- [Observador, conciencia y medicion en mecanica cuantica](articulos/11-observador-conciencia-y-medicion-en-mecanica-cuantica.md)
+- [Tiempo, fase y estructura temporal en mecanica cuantica](articulos/12-tiempo-fase-y-estructura-temporal-en-mecanica-cuantica.md)
+- [Desarrollos recientes en fundamentos e interpretaciones cuanticas](articulos/13-desarrollos-recientes-en-fundamentos-e-interpretaciones-cuanticas.md)
+- [Ontologia y significado de la realidad en fundamentos cuanticos](articulos/14-ontologia-y-significado-de-la-realidad-en-fundamentos-cuanticos.md)
+- [Dimensiones del espacio-tiempo y su relacion con las interpretaciones cuanticas](articulos/15-dimensiones-del-espacio-tiempo-y-su-relacion-con-las-interpretaciones.md)
+- [Identidad de particulas, indistinguibilidad y entrelazamiento](articulos/16-identidad-de-particulas-indistinguibilidad-y-entrelazamiento.md)
 - [Matriz comparativa avanzada](matriz-comparativa-avanzada.md)
 - [Referencias anotadas para interpretaciones de la mecanica cuantica](referencias-anotadas.md)
 
