@@ -17,6 +17,7 @@ El formato sigue una estructura sencilla inspirada en Keep a Changelog, adaptada
 - Nueva [matriz comparativa avanzada](/Users/legalintermedia/Documents/GitHub/QM_Interpretations/docs/matriz-comparativa-avanzada.md) para consulta transversal.
 - Nuevo articulo introductorio sobre multiverso, multiples historias y la hipotesis de simulacion.
 - Nuevo articulo fundacional sobre que significa una interpretacion cuantica y que compromisos supone.
+- Nuevo articulo sobre que se entiende por "realidad" en la fisica actual.
 - Ampliacion del `README` para reflejar la nueva estructura del proyecto.
 
 ### Changed

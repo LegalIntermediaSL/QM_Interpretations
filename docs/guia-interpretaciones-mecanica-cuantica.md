@@ -20,6 +20,7 @@ Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de 
 - [Bell, contextualidad y teoremas de no-go](articulos/07-bell-contextualidad-y-teoremas-de-no-go.md)
 - [Historias, modales, retrocausales y propuestas heterodoxas](articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
 - [Introduccion al multiverso, las multiples historias y la simulacion](articulos/09-multiverso-muchas-historias-y-simulacion.md)
+- [Que se entiende por realidad en la fisica actual](articulos/10-que-se-entiende-por-realidad-en-la-fisica-actual.md)
 - [Matriz comparativa avanzada](matriz-comparativa-avanzada.md)
 - [Referencias anotadas para interpretaciones de la mecanica cuantica](referencias-anotadas.md)
 

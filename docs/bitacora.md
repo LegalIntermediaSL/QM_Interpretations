@@ -41,6 +41,7 @@ Fase de expansion fuerte.
 - Incorporacion de una matriz comparativa avanzada para lectura transversal del corpus.
 - Incorporacion de un articulo puente para separar con claridad multiverso cosmologico, muchas historias cuanticas y simulacion.
 - Incorporacion de un articulo de base sobre el concepto mismo de interpretacion cuantica y sus supuestos.
+- Incorporacion de un articulo de marco filosofico-fisico sobre el sentido de "realidad" en la fisica actual.
 
 ## Hoja de ruta inmediata
 

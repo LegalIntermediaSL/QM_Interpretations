@@ -22,6 +22,7 @@ Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las i
 - [Bell, contextualidad y teoremas de no-go](docs/articulos/07-bell-contextualidad-y-teoremas-de-no-go.md)
 - [Historias, modales, retrocausales y propuestas heterodoxas](docs/articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
 - [Introduccion al multiverso, las multiples historias y la simulacion](docs/articulos/09-multiverso-muchas-historias-y-simulacion.md)
+- [Que se entiende por realidad en la fisica actual](docs/articulos/10-que-se-entiende-por-realidad-en-la-fisica-actual.md)
 
 ## Enfoque
 

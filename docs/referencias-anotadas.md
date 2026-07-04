@@ -93,7 +93,18 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
 - [Nick Bostrom, Are You Living in a Computer Simulation?](https://simulation-argument.com/simulation.pdf)
   - Texto fundacional de la hipotesis de simulacion en su forma contemporanea mas influyente.
 
-## 10. Libros y revisiones panoramicas
+## 10. Realidad y realismo en fisica actual
+
+- [Big Mysteries Survey: Physicists' Views on Cosmology, Black Holes, Quantum Mechanics, and Quantum Gravity (arXiv:2605.11058)](https://arxiv.org/abs/2605.11058)
+  - Util para tomar el pulso contemporaneo del desacuerdo en cuestiones fundacionales y evitar presentar como consenso lo que solo es posicion lider.
+- [Danilo M. Fucci y Renato M. Angelo, Theory-Independent Realism (arXiv:2402.17123)](https://arxiv.org/abs/2402.17123)
+  - Interesante para ver una tentativa contemporanea de formular una nocion de realismo mas alla de una sola teoria concreta.
+- [Michael E. Cuffaro, Methodological Realism and Quantum Mechanics (arXiv:2512.02169)](https://arxiv.org/abs/2512.02169)
+  - Texto reciente y valioso para distinguir diferentes sentidos de completitud y realismo en el debate cuantico.
+- [The operational framework for quantum theories is no reason to adopt an anti-realist attitude (arXiv:2109.02310)](https://arxiv.org/abs/2109.02310)
+  - Revision util para el frente entre operacionalismo, informacion y antirrealismo.
+
+## 11. Libros y revisiones panoramicas
 
 - Max Jammer, *The Philosophy of Quantum Mechanics*.
   - Gran referencia historica y panoramica.
@@ -106,7 +117,7 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
 - David Wallace, *The Emergent Multiverse*.
   - Defensa sofisticada de Everett.
 
-## 11. Rutas de lectura sugeridas
+## 12. Rutas de lectura sugeridas
 
 ### Ruta A: problema de la medicion
 
@@ -141,7 +152,14 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
 3. Dowker y Kent para historias consistentes.
 4. Bostrom para simulacion, siempre distinguiendola del frente interpretativo cuantico.
 
-## 12. Nota editorial
+### Ruta F: realidad y realismo
+
+1. El articulo del repositorio sobre realidad en la fisica actual.
+2. Fucci y Angelo sobre theory-independent realism.
+3. Cuffaro sobre methodological realism.
+4. Big Mysteries Survey para situar el estado contemporaneo del desacuerdo.
+
+## 13. Nota editorial
 
 La bibliografia de fundamentos cuanticos es inmensa. Esta seleccion prioriza:
 
