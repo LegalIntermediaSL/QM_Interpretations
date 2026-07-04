@@ -82,7 +82,18 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
 - [John G. Cramer, The transactional interpretation of quantum mechanics, Rev. Mod. Phys. 58, 647 (1986)](https://link.aps.org/doi/10.1103/RevModPhys.58.647)
   - Referencia fundacional de la propuesta transaccional.
 
-## 9. Libros y revisiones panoramicas
+## 9. Multiverso, muchas historias y simulacion
+
+- [Max Tegmark, Parallel Universes (arXiv:astro-ph/0302131)](https://arxiv.org/abs/astro-ph/0302131)
+  - Texto clasico para ordenar tipos de multiverso y evitar confusiones entre niveles distintos.
+- [George F. R. Ellis, U. Kirchner y W. R. Stoeger, Multiverse cosmological models (arXiv:astro-ph/0403047)](https://arxiv.org/abs/astro-ph/0403047)
+  - Muy util para discutir el multiverso desde una perspectiva cosmologica y filosofica mas critica.
+- [Fay Dowker y Adrian Kent, On the Consistent Histories Approach to Quantum Mechanics (arXiv:gr-qc/9412067)](https://arxiv.org/abs/gr-qc/9412067)
+  - Revision valiosa del frente de historias consistentes.
+- [Nick Bostrom, Are You Living in a Computer Simulation?](https://simulation-argument.com/simulation.pdf)
+  - Texto fundacional de la hipotesis de simulacion en su forma contemporanea mas influyente.
+
+## 10. Libros y revisiones panoramicas
 
 - Max Jammer, *The Philosophy of Quantum Mechanics*.
   - Gran referencia historica y panoramica.
@@ -95,7 +106,7 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
 - David Wallace, *The Emergent Multiverse*.
   - Defensa sofisticada de Everett.
 
-## 10. Rutas de lectura sugeridas
+## 11. Rutas de lectura sugeridas
 
 ### Ruta A: problema de la medicion
 
@@ -123,7 +134,14 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
 3. Aharonov y Vaidman.
 4. Hossenfelder sobre superdeterminismo.
 
-## 11. Nota editorial
+### Ruta E: ampliar hacia multiverso y simulacion
+
+1. Tegmark sobre paralel worlds.
+2. Ellis y colaboradores sobre modelos cosmologicos de multiverso.
+3. Dowker y Kent para historias consistentes.
+4. Bostrom para simulacion, siempre distinguiendola del frente interpretativo cuantico.
+
+## 12. Nota editorial
 
 La bibliografia de fundamentos cuanticos es inmensa. Esta seleccion prioriza:
 

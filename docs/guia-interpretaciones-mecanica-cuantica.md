@@ -10,6 +10,7 @@ Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de 
 
 ### Indice de articulos largos
 
+- [Que significa una interpretacion cuantica](articulos/00-que-significa-una-interpretacion-cuantica.md)
 - [Fundamentos, medicion y estructura del problema](articulos/01-fundamentos-medicion-y-estructura-del-problema.md)
 - [Copenhague, instrumentalismo y lecturas de conjunto](articulos/02-copenhague-instrumentalismo-y-conjunto.md)
 - [Mecanica bohmiana y variables ocultas](articulos/03-mecanica-bohmiana-y-variables-ocultas.md)
@@ -18,6 +19,7 @@ Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de 
 - [Relacional, QBism y enfoques informacionales](articulos/06-relacional-qbism-e-informacionales.md)
 - [Bell, contextualidad y teoremas de no-go](articulos/07-bell-contextualidad-y-teoremas-de-no-go.md)
 - [Historias, modales, retrocausales y propuestas heterodoxas](articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
+- [Introduccion al multiverso, las multiples historias y la simulacion](articulos/09-multiverso-muchas-historias-y-simulacion.md)
 - [Matriz comparativa avanzada](matriz-comparativa-avanzada.md)
 - [Referencias anotadas para interpretaciones de la mecanica cuantica](referencias-anotadas.md)
 

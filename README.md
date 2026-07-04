@@ -12,6 +12,7 @@ Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las i
 
 ## Articulos en desarrollo profundo
 
+- [Que significa una interpretacion cuantica](docs/articulos/00-que-significa-una-interpretacion-cuantica.md)
 - [Fundamentos, medicion y estructura del problema](docs/articulos/01-fundamentos-medicion-y-estructura-del-problema.md)
 - [Copenhague, instrumentalismo y lecturas de conjunto](docs/articulos/02-copenhague-instrumentalismo-y-conjunto.md)
 - [Mecanica bohmiana y variables ocultas](docs/articulos/03-mecanica-bohmiana-y-variables-ocultas.md)
@@ -20,6 +21,7 @@ Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las i
 - [Relacional, QBism y enfoques informacionales](docs/articulos/06-relacional-qbism-e-informacionales.md)
 - [Bell, contextualidad y teoremas de no-go](docs/articulos/07-bell-contextualidad-y-teoremas-de-no-go.md)
 - [Historias, modales, retrocausales y propuestas heterodoxas](docs/articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
+- [Introduccion al multiverso, las multiples historias y la simulacion](docs/articulos/09-multiverso-muchas-historias-y-simulacion.md)
 
 ## Enfoque
 

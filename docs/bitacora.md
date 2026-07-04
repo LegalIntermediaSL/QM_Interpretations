@@ -39,6 +39,8 @@ Fase de expansion fuerte.
 - Expansion hacia una segunda fase con tratamiento separado de historias consistentes, modales, retrocausalidad y otras propuestas heterodoxas.
 - Incorporacion de una bibliografia anotada con referencias primarias y secundarias verificadas.
 - Incorporacion de una matriz comparativa avanzada para lectura transversal del corpus.
+- Incorporacion de un articulo puente para separar con claridad multiverso cosmologico, muchas historias cuanticas y simulacion.
+- Incorporacion de un articulo de base sobre el concepto mismo de interpretacion cuantica y sus supuestos.
 
 ## Hoja de ruta inmediata
 
