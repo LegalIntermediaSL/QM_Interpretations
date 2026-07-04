@@ -1,20 +1,30 @@
 # QM_Interpretations
 
-Repositorio dedicado a un tutorial amplio sobre las interpretaciones de la mecanica cuantica.
+Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las interpretaciones de la mecanica cuantica.
 
-## Contenido principal
+## Estructura del proyecto
 
 - [Guia extensa de las interpretaciones de la mecanica cuantica](docs/guia-interpretaciones-mecanica-cuantica.md)
+- [Bitacora del proyecto](docs/bitacora.md)
+- [CHANGELOG](CHANGELOG.md)
+
+## Articulos en desarrollo profundo
+
+- [Fundamentos, medicion y estructura del problema](docs/articulos/01-fundamentos-medicion-y-estructura-del-problema.md)
+- [Copenhague, instrumentalismo y lecturas de conjunto](docs/articulos/02-copenhague-instrumentalismo-y-conjunto.md)
+- [Mecanica bohmiana y variables ocultas](docs/articulos/03-mecanica-bohmiana-y-variables-ocultas.md)
+- [Everett, ramificacion y muchos mundos](docs/articulos/04-everett-ramificacion-y-muchos-mundos.md)
+- [Colapso objetivo: GRW, CSL y propuestas afines](docs/articulos/05-colapso-objetivo-grw-csl-y-afines.md)
+- [Relacional, QBism y enfoques informacionales](docs/articulos/06-relacional-qbism-e-informacionales.md)
 
 ## Enfoque
 
-El tutorial principal esta escrito en espanol y cubre:
+El repositorio combina tres niveles de lectura:
 
-- el problema de la medicion y el marco conceptual minimo
-- las familias principales de interpretaciones
-- variantes historicas y contemporaneas importantes
-- tablas comparativas, preguntas frecuentes y bibliografia comentada
+- una guia maestra que da el mapa general
+- una serie de articulos largos que profundizan cada familia
+- una bitacora editorial que deja constancia del proceso de expansion
 
 ## Nota de alcance
 
-En fundamentos cuanticos existen muchas microvariantes y programas hibridos. La guia intenta cubrir todas las familias influyentes y las propuestas mas citadas, sin fingir que cada articulo marginal constituye una escuela separada.
+En fundamentos cuanticos existen muchas microvariantes, programas hibridos y debates terminologicos. El objetivo aqui es cubrir con seriedad las familias influyentes y las propuestas conceptualmente relevantes, sin fingir que cada articulo aislado constituye una escuela independiente.
