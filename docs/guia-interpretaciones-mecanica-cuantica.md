@@ -4,6 +4,25 @@
 
 Esta guia esta pensada como un tutorial largo y autocontenido. Si vienes por primera vez al tema, puedes leer las secciones 1 a 4 y despues saltar a las interpretaciones que mas te interesen. Si ya conoces el formalismo cuantico, puedes ir directamente a las comparativas y a la bibliografia comentada del final.
 
+## Ruta editorial del repositorio
+
+Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de entrada a una serie de articulos monograficos mas extensos.
+
+### Indice de articulos largos
+
+- [Fundamentos, medicion y estructura del problema](../docs/articulos/01-fundamentos-medicion-y-estructura-del-problema.md)
+- [Copenhague, instrumentalismo y lecturas de conjunto](../docs/articulos/02-copenhague-instrumentalismo-y-conjunto.md)
+- [Mecanica bohmiana y variables ocultas](../docs/articulos/03-mecanica-bohmiana-y-variables-ocultas.md)
+- [Everett, ramificacion y muchos mundos](../docs/articulos/04-everett-ramificacion-y-muchos-mundos.md)
+- [Colapso objetivo: GRW, CSL y propuestas afines](../docs/articulos/05-colapso-objetivo-grw-csl-y-afines.md)
+- [Relacional, QBism y enfoques informacionales](../docs/articulos/06-relacional-qbism-e-informacionales.md)
+
+### Como se reparten las funciones
+
+- Esta guia ofrece el mapa general, las comparativas y el hilo pedagogico de conjunto.
+- Los articulos largos desarrollan con mucha mas profundidad los argumentos, objeciones y tensiones internas de cada familia.
+- La [bitacora editorial](../docs/bitacora.md) registra decisiones, prioridades y criterios de crecimiento del proyecto.
+
 ## Nota de alcance
 
 Hablar de "todas" las interpretaciones de la mecanica cuantica es delicado, porque la literatura incluye familias enteras, variantes menores, programas mixtos y propuestas todavia marginales. Esta guia cubre:
@@ -174,7 +193,7 @@ Una forma celebre de presentar el problema, asociada a discusiones de Maudlin y 
 
 Las grandes familias interpretativas renuncian o reinterpretan una de estas tres piezas:
 
-- Bohm niega que la funcion de onda sea toda la historia, porque añade variables adicionales.
+- Bohm niega que la funcion de onda sea toda la historia, porque anade variables adicionales.
 - Everett mantiene 1 y 2, pero relee 3 en terminos de ramificacion.
 - GRW mantiene 1 y 3, pero modifica 2.
 - Copenhague o QBism suelen reinterpretar el sentido mismo de 1 o de 3.
@@ -342,8 +361,8 @@ flowchart TD
 
 Una forma util de navegar el tema es comparar las interpretaciones no por simpatia previa, sino por la pregunta exacta que intentan responder mejor.
 
-- Si te irrita el colapso como excepcion dinamica, mirarás hacia Everett o Bohm.
-- Si te irrita la falta de resultados unicos, mirarás hacia Bohm o GRW.
+- Si te irrita el colapso como excepcion dinamica, miraras hacia Everett o Bohm.
+- Si te irrita la falta de resultados unicos, miraras hacia Bohm o GRW.
 - Si te irrita la idea de una funcion de onda como objeto fisico literal, te interesaran QBism, ensemble o enfoques pragmatistas.
 - Si te irrita la idea de hechos absolutos independientes de toda interaccion, RQM puede parecer atractiva.
 
@@ -362,9 +381,49 @@ Sus rasgos mas comunes son:
 - hay un corte entre sistema cuantico y aparato clasico, aunque su ubicacion exacta sea flexible
 - la funcion de onda puede entenderse mas como herramienta predictiva que como objeto fisico literal
 
+### No hay una sola Copenhague
+
+Bajo el nombre "Copenhague" conviven al menos dos acentos que conviene no confundir:
+
+- un acento `bohriano`, centrado en la inseparabilidad entre sistema y contexto experimental
+- un acento `de manual`, mas cercano a decir que la funcion de onda evoluciona unitariamente hasta que una medicion produce colapso
+
+Bohr no era simplemente un subjetivista ingenuo. Su idea central era mas sutil: los fenomenos cuanticos no admiten una descripcion clasica directa e independiente del dispositivo experimental, pero los resultados deben expresarse en lenguaje clasico para ser comunicables.
+
+La version de manual, en cambio, suele ser mas esquematica:
+
+1. El sistema evoluciona con Schrodinger.
+2. Se mide un observable.
+3. El estado colapsa a un autovector correspondiente al resultado.
+
+Muchos debates posteriores parten precisamente de preguntar si ese paso 3 es una ley fisica, una actualizacion de informacion o una regla meramente operativa.
+
 ### Como trata la medicion
 
 En la version de manual, la medicion produce un colapso efectivo del estado. En versiones mas filosoficas, el acento esta menos en un mecanismo dinamico y mas en la inseparabilidad entre fenomeno y contexto experimental.
+
+Una forma caritativa de leer Copenhague es esta:
+
+- la teoria cuantica no describe "como son las cosas en si" de manera clasica
+- describe con enorme precision que resultados pueden estabilizarse en montajes experimentales bien definidos
+- pedir una imagen microscopica completa, independiente de todo contexto de medicion, puede ser exigir a la teoria algo que no promete dar
+
+Esta respuesta tiene fuerza metodologica, pero deja incomodos a quienes quieren una ontologia mas nitida.
+
+### Que hace con el corte clasico-cuantico
+
+El famoso `corte de Heisenberg` no tiene por que fijarse en un punto microscopicamente exacto. La idea operativa es que, para describir una medicion, algun fragmento de la situacion debe tratarse como aparato con registro clasico. En la practica esto funciona extraordinariamente bien. Filosoficamente, sin embargo, abre dos preguntas duras:
+
+- por que ese corte puede moverse sin cambiar predicciones
+- por que la teoria necesita un dominio clasico para formular sus propios resultados
+
+Para un defensor de Copenhague, esto no es un bug sino una leccion: el lenguaje clasico es condicion de posibilidad de la descripcion experimental. Para un critico, es una senal de incompletitud conceptual.
+
+### Respuesta al gato de Schrodinger
+
+La intuicion copenhaguista tipica diria que no tiene sentido hablar del gato como poseedor de un estado clasico definido antes de especificar adecuadamente el contexto de medicion. La superposicion no debe leerse como "gato literalmente vivo y muerto" en el sentido clasico, sino como expresion de una estructura cuantica que solo se articula en resultados definidos al cerrar el proceso experimental.
+
+Esto tiene la ventaja de desactivar imagenes demasiado literales y sensacionalistas. El precio es que muchos lectores sienten que el problema no se resuelve, sino que se redescribe con mas prudencia verbal.
 
 ### Fortalezas
 
@@ -372,15 +431,23 @@ En la version de manual, la medicion produce un colapso efectivo del estado. En 
 - conecta bien con la practica de laboratorio
 - evita compromisos ontologicos muy fuertes
 
+Tambien conviene reconocerle una virtud pedagogica: obliga a no proyectar automaticamente intuiciones clasicas sobre un formalismo que justamente mostro los limites de esas intuiciones.
+
 ### Dificultades
 
 - el "corte clasico-cuantico" es vago
 - no siempre queda claro si el colapso es fisico, epistemico o meramente procedimental
 - para muchos fisicos, resuelve el uso de la teoria, pero no la imagen del mundo
 
+Sus criticos suelen anadir una cuarta objecion: si toda la fisica fundamental deberia ser cuantica, entonces tratar al aparato clasico como primitivo parece conceptualmente inestable.
+
 ### Cuando sigue siendo util
 
 Es probablemente la mejor opcion si tu prioridad es operar con la teoria sin cargar con una metafisica pesada. Es mucho menos satisfactoria si buscas una ontologia explicita.
+
+### Balance
+
+Copenhague sigue viva no porque cierre todos los debates, sino porque captura una intuicion importante: la mecanica cuantica no encaja limpiamente en el molde clasico de objetos con propiedades definidas en todo momento. El punto donde deja de convencer es precisamente donde muchos quieren empezar: explicar que realidad fisica hay detras del formalismo.
 
 ## 6. Interpretacion estadistica o de conjunto
 
@@ -388,11 +455,15 @@ Es probablemente la mejor opcion si tu prioridad es operar con la teoria sin car
 
 La funcion de onda no describe un sistema individual, sino un conjunto estadistico de sistemas preparados de manera similar. El formalismo cuantico habla de distribuciones, no de hechos microscopicos individuales.
 
+En esta lectura, preguntar por "el estado real" de un electron aislado puede ser un mal uso del lenguaje teorico. Lo que la teoria organiza con legitimidad son patrones de frecuencias y correlaciones en ensembles de experimentos repetidos.
+
 ### Que gana
 
 - evita tratar el colapso como proceso fisico real
 - mantiene la conexion directa con frecuencias experimentales
 - reduce la tentacion de reificar la funcion de onda
+
+Tambien evita parte del dramatismo metafisico del problema de la medicion. Si el estado no pretende describir un individuo aislado, entonces el colapso deja de parecer una metamorfosis misteriosa de una entidad fisica literal.
 
 ### Que pierde
 
@@ -400,9 +471,21 @@ La funcion de onda no describe un sistema individual, sino un conjunto estadisti
 - muchos consideran que no resuelve del todo el problema de la medicion, sino que lo desplaza
 - ofrece menos poder explicativo cuando uno pregunta "que es lo que hay"
 
+Su punto vulnerable aparece cuando queremos explicar experimentos individuales concretos. La teoria estadistica describe muy bien poblaciones de resultados, pero puede sonar evasiva ante preguntas del tipo:
+
+- que paso en este ensayo singular
+- por que este detector disparo y no aquel
+- que estructura fisica sostiene las correlaciones de Bell en cada evento
+
+Un defensor respondera que esas preguntas exigen demasiado de una teoria probabilista. Un critico dira que justamente ahi empieza una interpretacion de verdad.
+
 ### Comentario
 
 Es una postura sobria y a menudo infravalorada. No es espectacular, pero encaja bien con una actitud fuertemente empirista.
+
+### Balance
+
+La interpretacion de conjunto funciona mejor como vacuna contra reificaciones apresuradas que como ontologia completa del microcosmos. Su valor pedagogico es grande: recuerda que el formalismo cuantico nacio ligado a patrones estadisticos antes que a imagenes mecanicas intuitivas.
 
 ## 7. Variables ocultas y mecanica bohmiana
 
@@ -416,9 +499,48 @@ En la teoria de de Broglie-Bohm, tambien llamada mecanica bohmiana o teoria de o
 - una funcion de onda que evoluciona siempre de forma unitaria
 - ninguna necesidad de colapso fundamental
 
+Mas precisamente, para un sistema de `N` particulas, la funcion de onda vive en el espacio de configuracion y la configuracion real del sistema esta dada por las posiciones efectivas `Q_1, ..., Q_N`. La dinamica se completa con una ecuacion de guiado del tipo:
+
+```text
+dQ_i/dt = (hbar / m_i) Im[(nabla_i psi) / psi](Q_1, ..., Q_N)
+```
+
+No hace falta dominar la formula para captar la idea fisica: la onda no empuja a la particula como un campo clasico local, sino que codifica una ley global de movimiento para la configuracion completa.
+
+### Equilibrio cuantico y regla de Born
+
+Una pregunta inmediata es por que, si la teoria es determinista, observamos probabilidades de Born. La respuesta bohmiana tipica apela al `equilibrio cuantico`: si la distribucion inicial de configuraciones esta dada por `|psi|^2`, la propia dinamica preserva esa distribucion.
+
+Esto cumple un papel analogo al equilibrio en mecanica estadistica:
+
+- las trayectorias individuales son definidas
+- nuestra ignorancia sobre la configuracion exacta produce probabilidades
+- la regla de Born emerge como distribucion tipica o de equilibrio
+
+Hay debate sobre si esta justificacion es plenamente derivada o parcialmente postulada, pero dentro del marco bohmiano constituye una pieza central.
+
 ### Como trata la medicion
 
 Lo que parece colapso es un colapso efectivo. El aparato, el sistema y el observador quedan descritos por la funcion de onda total, pero la configuracion real de particulas selecciona una sola rama efectiva.
+
+Imagina que el estado total del aparato tras la interaccion contiene dos ramas no solapadas en el espacio de configuracion:
+
+```text
+a|arriba>|aparato: arriba> + b|abajo>|aparato: abajo>
+```
+
+Si la configuracion real del mundo cae en la region correspondiente a la segunda rama, esa rama es la que guia efectivamente la evolucion futura del sistema observado. La otra rama sigue existiendo en la funcion de onda, pero queda "vacia" en el sentido de que no contiene la configuracion real. Por eso no hace falta colapso fundamental: basta con una ontologia que seleccione una trayectoria efectiva.
+
+### Que tipo de no localidad introduce
+
+La no localidad en Bohm no es un accidente cosmetico; esta inscrita en la propia ecuacion de guiado. La velocidad de una particula puede depender instantaneamente de la configuracion de otras muy lejanas si el estado es entrelazado.
+
+Esto suena chocante, pero tiene dos matices importantes:
+
+- no permite, en la formulacion estandar, enviar senales superluminales controlables
+- encaja de forma bastante natural con el hecho empirico de que Bell obliga a pagar algun precio no clasico
+
+Para muchos bohmianos, la ventaja es la honestidad: la teoria muestra abiertamente donde vive la no localidad, en lugar de esconderla en reglas de colapso ambiguas.
 
 ### Fortalezas
 
@@ -427,11 +549,20 @@ Lo que parece colapso es un colapso efectivo. El aparato, el sistema y el observ
 - es determinista
 - muestra de manera transparente donde vive la no localidad
 
+Tambien explica con claridad por que el mundo parece estar compuesto por objetos localizados: las posiciones existen siempre, no solo al medir.
+
 ### Dificultades
 
 - la dinamica es manifiestamente no local
 - la funcion de onda vive en el espacio de configuracion, no en el espacio ordinario de tres dimensiones
 - extender la teoria a relatividad y teoria cuantica de campos requiere construcciones mas delicadas
+
+Sus criticos suelen insistir en otras dos dificultades:
+
+- las "ondas vacias" parecen ontologicamente extranas
+- algunos consideran que la teoria reintroduce una metafisica demasiado pesada para recuperar resultados ya contenidos en la teoria estandar
+
+Los bohmianos responden que toda interpretacion paga algun coste, y que el suyo compra una solucion limpia del problema de la medicion.
 
 ### Balance
 
@@ -447,11 +578,15 @@ La interpretacion everettiana sostiene que la ecuacion de Schrodinger vale siemp
 
 En lugar de pasar de muchos resultados posibles a uno solo, todos los resultados compatibles permanecen en distintas ramas del estado global.
 
+La nocion historica original de Everett era la de `estado relativo`: el estado de un subsistema debe entenderse relativo al estado de otro con el que esta correlacionado. La imagen popular de "infinitos universos que se dividen" es una manera intuitiva de hablar, pero no siempre refleja con precision la formulacion tecnica.
+
 ### Lo que intenta resolver
 
 - elimina el postulado de colapso
 - trata la teoria de forma universal, incluyendo observadores y aparatos
 - explica por que la dinamica cuantica no necesita excepciones
+
+Su promesa conceptual es poderosa: una sola ley dinamica, sin saltos especiales, basta para describir electrones, gatos, laboratorios y observadores.
 
 ### Dificultades clasicas
 
@@ -459,9 +594,35 @@ En lugar de pasar de muchos resultados posibles a uno solo, todos los resultados
 - como justificar la regla de Born si todo ocurre
 - que significa probabilidad subjetiva en una teoria determinista global
 
+Estas objeciones no son detalles menores. Son el corazon del debate sobre Everett:
+
+- si las ramas son emergentes y aproximadas, que estatus ontologico tienen exactamente
+- si todos los resultados existen, que significa "esperar" uno con cierta probabilidad
+- si el observador se ramifica, en que sentido persiste la identidad personal a traves del proceso
+
+Los defensores modernos de Everett han elaborado respuestas sofisticadas, pero ninguna es universalmente aceptada.
+
 ### El papel de la decoherencia
 
 La decoherencia no selecciona una unica realidad, pero ayuda a explicar por que ciertas ramas parecen clasicas y por que interfieren muy poco entre si. En el enfoque everettiano moderno, esto es central.
+
+La idea es que el entorno suprime muy rapidamente la interferencia entre paquetes macroscopicamente distintos. Por eso cada rama puede evolucionar como si fuera casi autonoma. La ramificacion no es una operacion exacta inscrita en un axioma; es una estructura emergente, aproximadamente estable, descubierta al estudiar la dinamica de sistemas abiertos.
+
+### Probabilidad en Everett
+
+Este es probablemente el frente mas discutido. Las lineas de defensa mas conocidas incluyen:
+
+- argumentos de decision racional al estilo Deutsch-Wallace
+- apelaciones a tipicidad o auto-localizacion
+- intentos de mostrar que la regla de Born es la unica compatible con cierta coherencia entre agentes ramificados
+
+El problema, dicho crudamente, es este: si todas las ramas existen, por que las amplitudes cuadradas deben gobernar nuestras expectativas subjetivas. Los everettianos tienen respuestas complejas. Sus criticos creen que ninguna termina de reconstruir el sentido ordinario de la probabilidad.
+
+### La experiencia subjetiva de un resultado
+
+Un punto a menudo mal entendido es que Everett no niega que cada observador experimente un resultado definido. Lo que niega es que exista un unico resultado absoluto para todo el estado global. Cada copia post-medicion del observador queda correlacionada con una rama distinta y experimenta un desenlace perfectamente definido desde su propia perspectiva.
+
+Eso explica por que la interpretacion no predice una conciencia borrosa ni una mezcla psicologica extrana. Lo que multiplica no es la confusion, sino las historias coherentes del observador.
 
 ### Balance
 
@@ -489,17 +650,54 @@ Intenta suavizar algunas dificultades ontologicas de muchos mundos, trasladando 
 
 Aqui el colapso no es una regla de actualizacion ni una apariencia emergente: es un proceso fisico real. Para conseguirlo, se modifica la dinamica cuantica.
 
+La motivacion filosofica es muy directa: si el problema de la medicion existe de verdad, entonces no basta con reinterpretar el formalismo; hay que cambiar la teoria para que produzca resultados unicos por si misma.
+
+En esta familia, la transicion entre micro y macro no depende de observadores especiales ni de lenguaje clasico. Depende de que los estados macroscopicamente extendidos sean dinamicamente inestables.
+
 ### GRW
 
 El modelo de Ghirardi-Rimini-Weber propone localizaciones espontaneas raras para sistemas microscopicos y efectivamente frecuentes para sistemas macroscopicos compuestos. Asi se explica por que no vemos superposiciones de gatos, punteros o mesas.
+
+La intuicion es elegante:
+
+- una particula aislada casi nunca colapsa
+- un objeto macroscopico contiene tantisimas particulas que la probabilidad total de colapso se vuelve enorme
+- la superposicion macroscopica se destruye muy rapido
+
+Asi, el microcosmos conserva casi toda la fisica cuantica conocida y el macrocosmos adquiere resultados definidos sin introducir aparatos clasicos por decreto.
 
 ### CSL
 
 Continuous Spontaneous Localization convierte esa idea en una dinamica continua y estocastica en lugar de saltos discretos.
 
+Para muchos autores, CSL es mas natural matematicamente que una sucesion de "golpes" repentinos, porque reemplaza los saltos por un proceso ruidoso continuo. Conceptualmente, sin embargo, la apuesta es la misma: la linealidad estricta de Schrodinger no es exacta a todas las escalas.
+
 ### Diosi-Penrose
 
 Son propuestas relacionadas con la idea de que la gravedad podria desempenar algun papel en la inestabilidad de superposiciones macroscopicas. Son sugerentes, pero menos establecidas como teoria cerrada.
+
+La intuicion aqui es que dos geometrias espacio-temporales muy distintas, asociadas a una superposicion masiva, podrian no coexistir indefinidamente de manera estable. Esta idea es poderosa como brujula conceptual, aunque todavia esta lejos de constituir un consenso tecnico comparable a GRW o CSL.
+
+### Como resuelven la medicion
+
+Desde esta perspectiva, no hay misterio especial en el resultado definido. El aparato no necesita ser clasico por principio. Simplemente, al volverse macroscopico, entra en el regimen donde la superposicion se hace inestable y el estado colapsa hacia una de las posibilidades.
+
+Eso hace que muchos defensores de colapso objetivo vean a su familia como la mas frontalmente realista:
+
+- acepta el problema de la medicion como problema fisico genuino
+- no delega la solucion en observadores o agentes
+- arriesga una modificacion concreta y potencialmente refutable
+
+### Que precio pagan
+
+Modificar la teoria no sale gratis. Hay que responder preguntas muy serias:
+
+- por que esos parametros y no otros
+- como conservar o adaptar simetrias importantes
+- como formular la teoria en relatividad y en campos cuanticos
+- como evitar efectos indeseados como calentamiento espontaneo demasiado grande
+
+Ademas, una vez se introduce un ruido fisico fundamental, surge la necesidad de explicar su origen, su estructura y su compatibilidad con el resto de la fisica.
 
 ### Fortalezas
 
@@ -512,6 +710,8 @@ Son propuestas relacionadas con la idea de que la gravedad podria desempenar alg
 - introducen nuevos parametros y nueva dinamica
 - deben evitar contradicciones con experimentos de interferencia y precision
 - construir versiones plenamente relativistas no es trivial
+
+En particular, el exito experimental de la mecanica cuantica ordinaria pone el liston altisimo: la nueva dinamica debe ser lo bastante fuerte para destruir superposiciones macroscopicas y lo bastante debil para no arruinar la fenomenologia microscopica ya confirmada.
 
 ### Balance
 
@@ -535,6 +735,10 @@ La interpretacion de historias consistentes asigna probabilidades a historias co
 - algunos criticos creen que el problema de la realidad unica reaparece a otro nivel
 - puede resultar conceptualmente menos intuitiva que Bohm o Everett
 
+### La regla de un solo marco
+
+Un rasgo distintivo de esta interpretacion es la idea de que no debemos combinar sin cuidado proposiciones pertenecientes a marcos incompatibles. Esto impone disciplina conceptual, pero tambien genera frustracion: a algunos les parece una forma profunda de respetar la estructura cuantica; a otros, una restriccion semantica que evita mas de lo que explica.
+
 ## 12. Interpretaciones modales
 
 ### Idea central
@@ -556,6 +760,16 @@ Intentan conservar resultados definidos sin introducir saltos dinamicos fundamen
 - extender el esquema con naturalidad a teorias relativistas o de campos
 - lograr una formulacion unica y ampliamente aceptada
 
+### Por que interesan
+
+Las interpretaciones modales son valiosas porque intentan ocupar un terreno intermedio muy dificil:
+
+- no quieren colapso objetivo
+- no quieren la multiplicidad ontologica de Everett
+- no quieren renunciar del todo a propiedades actuales bien definidas
+
+Ese equilibrio es intelectualmente atractivo, aunque tecnicamente inestable. Por eso han sido muy influyentes en debates filosoficos incluso sin convertirse en la opcion dominante.
+
 ## 13. Mecanica cuantica relacional
 
 ### Idea central
@@ -565,6 +779,20 @@ La interpretacion relacional, asociada sobre todo a Carlo Rovelli, sostiene que 
 ### Que significa "observador"
 
 Aqui "observador" no significa necesariamente una mente consciente. Puede ser cualquier sistema fisico que interactua con otro.
+
+Esta aclaracion es esencial. La propuesta no dice que la mente humana cree la realidad. Dice algo mas radical y mas fisico: que los valores de magnitudes solo tienen sentido como hechos relativos entre sistemas que interactuan.
+
+### Un ejemplo intuitivo
+
+Imagina que un detector `D` interactua con un espin `S`. Para `D`, tras la interaccion hay un hecho definido: "el espin estaba arriba". Pero para un observador externo `W` que aun no ha interactuado con el conjunto `S + D`, ese mismo conjunto puede seguir describiendose mediante una superposicion.
+
+La tesis relacional es que no hay contradiccion inmediata si recordamos que:
+
+- el hecho es relativo a `D`
+- la descripcion superpuesta es relativa a `W`
+- los hechos absolutos e independientes de toda relacion no son la moneda fundamental de la teoria
+
+Este movimiento conceptual es muy fuerte. Para algunos, aclara el formalismo. Para otros, erosiona demasiado la nocion de realidad comun.
 
 ### Lo que gana
 
@@ -578,6 +806,12 @@ Aqui "observador" no significa necesariamente una mente consciente. Puede ser cu
 - los escenarios tipo amigo de Wigner ponen a prueba la intuicion de esta postura
 - para un realista clasico, la renuncia a hechos absolutos puede resultar excesiva
 
+La cuestion decisiva es como recuperar una realidad compartida sin volver a introducir subrepticiamente hechos absolutos. Los relationalistas suelen responder que la consistencia emerge cuando los sistemas interactuan y comparan registros. Sus criticos piden una formulacion mas tajante de esa convergencia.
+
+### Balance
+
+RQM es una de las propuestas mas filosoficamente originales del panorama contemporaneo. No resuelve el problema de la medicion mediante colapso ni multiplicacion de mundos, sino debilitando la exigencia de hechos absolutos. Si eso parece iluminador o intolerable depende en gran medida de tus intuiciones previas sobre realismo.
+
 ## 14. QBism
 
 ### Idea central
@@ -590,17 +824,40 @@ QBism, abreviatura de Quantum Bayesianism, interpreta el estado cuantico como un
 - las probabilidades son subjetivas en sentido bayesiano
 - la teoria cuantica es una herramienta para agentes situados en el mundo
 
+Para QBism, una medicion no es el descubrimiento pasivo de un valor que ya estaba ahi, sino una accion del agente sobre el mundo y la posterior experiencia que ese agente recibe como respuesta. Esto desplaza el foco:
+
+- desde "que propiedad objetiva tenia el sistema"
+- hacia "que expectativas coherentes debe tener un agente antes de actuar"
+
 ### Lo que aporta
 
 - disuelve muchos pseudoproblemas al negar que el estado cuantico sea una fotografia objetiva del sistema
 - ofrece una lectura muy pulida de la actualizacion de creencias tras una medicion
 - se toma muy en serio la relacion entre teoria, informacion y decision
 
+Una de sus mayores virtudes es diagnostica: muestra que muchos rompecabezas nacen de tratar la funcion de onda como una cosa fisica flotando en el espacio. Si `psi` es una herramienta normativa para agentes, entonces el "colapso" deja de ser un evento misterioso y pasa a ser una revision racional de expectativas tras una experiencia.
+
+### Lo que QBism no dice
+
+Es facil caricaturizarlo, asi que conviene precisar:
+
+- no dice que el mundo externo no exista
+- no dice que todo sea arbitrario o psicologico
+- no dice que cualquier asignacion de probabilidades valga lo mismo
+
+Lo que sostiene es que la teoria cuantica no representa directamente un estado objetivo del sistema independiente de todo agente. Representa restricciones normativas sobre como un agente debe organizar sus creencias si quiere mantenerse coherente con la estructura empirica del mundo.
+
 ### Dificultades
 
 - muchos fisicos sienten que sacrifica demasiado realismo
 - cuesta responder a la pregunta de que estructura del mundo hace posible el formalismo
 - si se exagera, puede parecer que la teoria habla mas del agente que de la naturaleza
+
+Su punto de friccion mas fuerte es este: incluso si QBism limpia de forma brillante el lenguaje de la teoria, muchos quieren todavia una respuesta a la pregunta "que hay ahi fuera que hace que la regla de Born funcione tan bien". QBism tiende a responder con modestia ontologica. Para algunos eso es sabiduria; para otros, retirada.
+
+### Balance
+
+QBism es probablemente la interpretacion contemporanea mas sofisticada dentro de la familia epistemica. Obliga a separar con rigor lo que pertenece al mundo, lo que pertenece al agente y lo que pertenece a las reglas normativas que conectan ambos. Si buscas una ontologia microscopica explicita, no te satisfara. Si buscas una reinterpretacion afilada del significado de probabilidad y medicion, es de las opciones mas serias.
 
 ## 15. Enfoques pragmatistas, neo-Copenhague e informacionales
 
@@ -764,6 +1021,29 @@ Bell descarta familias enteras de teorias locales con ciertos supuestos, pero no
 
 La decoherencia explica muy bien por que se pierden interferencias observables entre alternativas macroscopicas, pero no basta por si sola para derivar una unica filosofia.
 
+### 22.5 Que clase de evidencia cambiaria el panorama
+
+No toda evidencia relevante tiene que "probar" una interpretacion de manera absoluta. A veces basta con estrechar radicalmente el espacio de opciones.
+
+Serian especialmente influyentes:
+
+- evidencia robusta de desviaciones respecto a evolucion unitaria, lo que daria mucha fuerza a colapso objetivo
+- una formulacion relativista impecable y conceptualmente convincente de alguna teoria rival, lo que podria inclinar el debate por elegancia y alcance
+- limites experimentales cada vez mas duros sobre modelos de colapso, lo que volveria mas costoso defenderlos
+- nuevos teoremas de no-go que encarezcan ciertas lecturas psi-epistemicas o ciertos tipos de realismo clasico
+
+En otras palabras, el debate no esta congelado. Aunque muchas interpretaciones compartan predicciones ordinarias, la frontera entre fundamentos y experimento sigue siendo activa.
+
+### 22.6 Por que los experimentos tipo Bell no cierran el caso
+
+Los experimentos tipo Bell son decisivos para descartar una imagen clasica local bajo supuestos estandar. Pero no distinguen por si solos entre:
+
+- una teoria no local con variables ocultas como Bohm
+- una teoria sin colapso como Everett
+- un enfoque relacional o epistemico que relea que esta describiendo exactamente el formalismo
+
+Por eso Bell es una criba potentisima, pero no un juez final del tablero interpretativo.
+
 ## 23. Como elegir una interpretacion segun tus prioridades
 
 No hay una regla universal, pero si hay afinidades frecuentes.
@@ -912,6 +1192,22 @@ No necesariamente. Niega que el estado cuantico sea una descripcion objetiva lit
 ### Bell y el trasfondo no local
 
 - J. S. Bell, *Speakable and Unspeakable in Quantum Mechanics*. Lectura obligatoria.
+
+### Otras referencias muy utiles
+
+- Tim Maudlin, *Quantum Non-Locality and Relativity*. Muy util para Bell, no localidad y claridad argumental.
+- Jeffrey Bub, *Interpreting the Quantum World*. Bueno para comparar programas interpretativos.
+- Simon Kochen y Ernst Specker, texto clasico sobre contextualidad, mejor abordado a traves de exposiciones modernas si es tu primera vez.
+- Articulos de Pusey, Barrett y Rudolph sobre el estatuto ontologico de la funcion de onda.
+- Revisiones de Bassi y colaboradores para seguir el estado de modelos de colapso.
+
+### Consejo de lectura
+
+Si estudias este tema en serio, conviene alternar tres tipos de lectura:
+
+1. Textos fundacionales, para no aprender solo caricaturas.
+2. Revisiones tecnicas, para ver como se formulan hoy las propuestas.
+3. Comparativas filosoficas exigentes, para no perder de vista que cada enfoque responde a un problema distinto.
 
 ## 30. Cierre
 
