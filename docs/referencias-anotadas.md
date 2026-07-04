@@ -147,7 +147,7 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
 
 ### Ruta E: ampliar hacia multiverso y simulacion
 
-1. Tegmark sobre paralel worlds.
+1. Tegmark sobre Parallel Universes.
 2. Ellis y colaboradores sobre modelos cosmologicos de multiverso.
 3. Dowker y Kent para historias consistentes.
 4. Bostrom para simulacion, siempre distinguiendola del frente interpretativo cuantico.
@@ -157,7 +157,8 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
 1. El articulo del repositorio sobre realidad en la fisica actual.
 2. Fucci y Angelo sobre theory-independent realism.
 3. Cuffaro sobre methodological realism.
-4. Big Mysteries Survey para situar el estado contemporaneo del desacuerdo.
+4. The operational framework for quantum theories is no reason to adopt an anti-realist attitude.
+5. Big Mysteries Survey para situar el estado contemporaneo del desacuerdo.
 
 ## 13. Nota editorial
 

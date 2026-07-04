@@ -218,7 +218,7 @@ Algo cuenta como fisicamente real cuando:
 
 - puede ser incorporado de forma estable a una red de preparaciones, transformaciones y mediciones
 - produce diferencias experimentales repetibles
-- desempeña un papel indispensable en predicciones y explicaciones
+- desempena un papel indispensable en predicciones y explicaciones
 
 Esta idea no siempre responde a la pregunta ultima "que existe en si", pero si organiza mucha de la practica cientifica contemporanea.
 
@@ -356,9 +356,9 @@ Esto se ve bien en discusiones recientes y tambien en encuestas contemporaneas s
 
 ## 21. Una leccion de prudencia contemporanea
 
-La fisica actual enseña una forma de modestia intelectual:
+La fisica actual ensena una forma de modestia intelectual:
 
-- la realidad puede ser mas extraña que la imagen clasica
+- la realidad puede ser mas extrana que la imagen clasica
 - eso no nos obliga a abandonar toda aspiracion realista
 
 Lo que si obliga es a distinguir entre:
@@ -413,10 +413,12 @@ Por eso comprender la palabra "realidad" en fisica actual es casi una condicion 
 
 ## 26. Referencias recomendadas para seguir
 
-- trabajos contemporaneos sobre realismo cientifico y mecanica cuantica
-- discusiones sobre realismo estructural y relacional
-- literatura sobre teoria independiente del realismo y cuantificacion del irrealismo
-- encuestas recientes sobre desacuerdo interpretativo en fundamentos
+- Para una ruta curada dentro del repositorio, ve a [Referencias anotadas para interpretaciones de la mecanica cuantica](../referencias-anotadas.md), en especial la seccion `10. Realidad y realismo en fisica actual` y la `Ruta F`.
+- [Big Mysteries Survey: Physicists' Views on Cosmology, Black Holes, Quantum Mechanics, and Quantum Gravity (arXiv:2605.11058)](https://arxiv.org/abs/2605.11058), para medir el desacuerdo contemporaneo sin fingir consensos inexistentes.
+- [Danilo M. Fucci y Renato M. Angelo, Theory-Independent Realism (arXiv:2402.17123)](https://arxiv.org/abs/2402.17123), para una propuesta explicita de realismo mas alla de una sola teoria.
+- [Michael E. Cuffaro, Methodological Realism and Quantum Mechanics (arXiv:2512.02169)](https://arxiv.org/abs/2512.02169), para distinguir con mas cuidado niveles de realismo, completitud y metodologia.
+- [The operational framework for quantum theories is no reason to adopt an anti-realist attitude (arXiv:2109.02310)](https://arxiv.org/abs/2109.02310), para el frente entre operacionalismo, informacion y antirrealismo.
+- Para el trasfondo historico y conceptual amplio, vuelve tambien a Max Jammer, J. S. Bell y Tim Maudlin en la bibliografia panoramica del repositorio.
 
 ## Cierre
 
