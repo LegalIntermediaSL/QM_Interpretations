@@ -35,6 +35,10 @@ Fase de expansion fuerte.
 - Creacion de esta bitacora.
 - Preparacion del directorio `docs/articulos/`.
 - Plan de desarrollo de articulos monograficos sobre fundamentos, Copenhague, Bohm, Everett, colapso objetivo y enfoques relacionales e informacionales.
+- Expansion hacia una segunda fase con articulos dedicados a Bell, contextualidad y teoremas de no-go.
+- Expansion hacia una segunda fase con tratamiento separado de historias consistentes, modales, retrocausalidad y otras propuestas heterodoxas.
+- Incorporacion de una bibliografia anotada con referencias primarias y secundarias verificadas.
+- Incorporacion de una matriz comparativa avanzada para lectura transversal del corpus.
 
 ## Hoja de ruta inmediata
 
@@ -42,6 +46,7 @@ Fase de expansion fuerte.
 2. Revisar consistencia terminologica entre guia y articulos.
 3. Anadir tablas de cruce entre interpretaciones.
 4. Preparar una futura capa de bibliografia ampliada con referencias primarias y secundarias.
+5. Seguir desagregando, si hace falta, familias muy densas en monografias aun mas especificas.
 
 ## Decisiones de estructura
 
@@ -80,3 +85,4 @@ El proyecto no es solo acumulacion de texto. Tambien es un proceso de investigac
 - ASCII por defecto en los archivos del repositorio.
 - Ejemplos breves cuando ayuden a estabilizar intuiciones.
 - Comparaciones explicitas entre enfoques cuando compartan vocabulario pero no supuestos.
+- Bibliografia anotada con criterio de uso, no solo acumulacion de titulos.

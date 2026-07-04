@@ -10,18 +10,22 @@ Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de 
 
 ### Indice de articulos largos
 
-- [Fundamentos, medicion y estructura del problema](../docs/articulos/01-fundamentos-medicion-y-estructura-del-problema.md)
-- [Copenhague, instrumentalismo y lecturas de conjunto](../docs/articulos/02-copenhague-instrumentalismo-y-conjunto.md)
-- [Mecanica bohmiana y variables ocultas](../docs/articulos/03-mecanica-bohmiana-y-variables-ocultas.md)
-- [Everett, ramificacion y muchos mundos](../docs/articulos/04-everett-ramificacion-y-muchos-mundos.md)
-- [Colapso objetivo: GRW, CSL y propuestas afines](../docs/articulos/05-colapso-objetivo-grw-csl-y-afines.md)
-- [Relacional, QBism y enfoques informacionales](../docs/articulos/06-relacional-qbism-e-informacionales.md)
+- [Fundamentos, medicion y estructura del problema](articulos/01-fundamentos-medicion-y-estructura-del-problema.md)
+- [Copenhague, instrumentalismo y lecturas de conjunto](articulos/02-copenhague-instrumentalismo-y-conjunto.md)
+- [Mecanica bohmiana y variables ocultas](articulos/03-mecanica-bohmiana-y-variables-ocultas.md)
+- [Everett, ramificacion y muchos mundos](articulos/04-everett-ramificacion-y-muchos-mundos.md)
+- [Colapso objetivo: GRW, CSL y propuestas afines](articulos/05-colapso-objetivo-grw-csl-y-afines.md)
+- [Relacional, QBism y enfoques informacionales](articulos/06-relacional-qbism-e-informacionales.md)
+- [Bell, contextualidad y teoremas de no-go](articulos/07-bell-contextualidad-y-teoremas-de-no-go.md)
+- [Historias, modales, retrocausales y propuestas heterodoxas](articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
+- [Matriz comparativa avanzada](matriz-comparativa-avanzada.md)
+- [Referencias anotadas para interpretaciones de la mecanica cuantica](referencias-anotadas.md)
 
 ### Como se reparten las funciones
 
 - Esta guia ofrece el mapa general, las comparativas y el hilo pedagogico de conjunto.
 - Los articulos largos desarrollan con mucha mas profundidad los argumentos, objeciones y tensiones internas de cada familia.
-- La [bitacora editorial](../docs/bitacora.md) registra decisiones, prioridades y criterios de crecimiento del proyecto.
+- La [bitacora editorial](bitacora.md) registra decisiones, prioridades y criterios de crecimiento del proyecto.
 
 ## Nota de alcance
 

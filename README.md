@@ -5,7 +5,9 @@ Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las i
 ## Estructura del proyecto
 
 - [Guia extensa de las interpretaciones de la mecanica cuantica](docs/guia-interpretaciones-mecanica-cuantica.md)
+- [Matriz comparativa avanzada](docs/matriz-comparativa-avanzada.md)
 - [Bitacora del proyecto](docs/bitacora.md)
+- [Referencias anotadas](docs/referencias-anotadas.md)
 - [CHANGELOG](CHANGELOG.md)
 
 ## Articulos en desarrollo profundo
@@ -16,6 +18,8 @@ Repositorio editorial dedicado a un tutorial amplio y en crecimiento sobre las i
 - [Everett, ramificacion y muchos mundos](docs/articulos/04-everett-ramificacion-y-muchos-mundos.md)
 - [Colapso objetivo: GRW, CSL y propuestas afines](docs/articulos/05-colapso-objetivo-grw-csl-y-afines.md)
 - [Relacional, QBism y enfoques informacionales](docs/articulos/06-relacional-qbism-e-informacionales.md)
+- [Bell, contextualidad y teoremas de no-go](docs/articulos/07-bell-contextualidad-y-teoremas-de-no-go.md)
+- [Historias, modales, retrocausales y propuestas heterodoxas](docs/articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
 
 ## Enfoque
 
