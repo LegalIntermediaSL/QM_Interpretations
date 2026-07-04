@@ -49,28 +49,29 @@ Fase de expansion fuerte.
 - Apertura de una pieza complementaria sobre ontologia cuantica y el significado de decir que una teoria "pone algo en lo real".
 - Apertura de una pieza especifica sobre espacio-tiempo, espacio de configuracion y su reparto interpretativo entre las principales familias.
 - Apertura de una pieza especifica sobre identidad de particulas, indistinguibilidad y el efecto ontologico del entrelazamiento.
+- Ejecucion completa del siguiente ciclo monografico del repositorio con quince nuevas piezas sobre decoherencia, Born, `psi`, hechos observados, composicionalidad, QFT, localidad relativista, cosmologia cuantica, gravedad cuantica, reconstrucciones, RQM, QBism, historias consistentes, retrocausalidad y Copenhague en detalle.
 
 ## Hoja de ruta inmediata
 
-1. Completar articulos largos para las familias principales.
-2. Revisar consistencia terminologica entre guia y articulos.
-3. Anadir tablas de cruce entre interpretaciones.
-4. Mantener y seguir ampliando la bibliografia anotada para acompanar las nuevas monografias.
-5. Seguir desagregando, si hace falta, familias muy densas en monografias aun mas especificas.
+1. Consolidar coherencia terminologica entre la guia maestra y el nuevo bloque `17`-`31`.
+2. Preparar la siguiente capa de infraestructura: glosario, cronologia y matriz comparativa avanzada v2.
+3. Mantener y seguir ampliando la bibliografia anotada para acompanar futuras revisiones.
+4. Crear rutas de lectura por perfiles para no obligar a todos los lectores a recorrer el corpus completo en el mismo orden.
+5. Revisar cruces entre QFT, cosmologia y gravedad cuantica para evitar repeticiones innecesarias.
 6. Mantener actualizado el frente de desarrollos recientes sin convertir cada preprint nuevo en falsa revolucion.
 
 ## Hoja de ruta concreta
 
-La hoja de ruta detallada del siguiente ciclo de expansion esta en [hoja-de-ruta-editorial-profunda.md](hoja-de-ruta-editorial-profunda.md).
+La hoja de ruta detallada del siguiente ciclo de expansion esta en [hoja-de-ruta-editorial-profunda.md](hoja-de-ruta-editorial-profunda.md). El ciclo `17`-`31` ya fue redactado y esa hoja funciona ahora tambien como orden de lectura profunda y criterio para futuras revisiones.
 
 Orden recomendado de ejecucion:
 
-1. Decoherencia, bases preferidas y mundo clasico.
-2. Probabilidad, regla de Born y significado del azar cuantico.
-3. Funcion de onda: estatuto ontologico, semantico y nomologico.
-4. Hechos observados, amigo de Wigner y autorreferencia.
-5. Separabilidad, composicionalidad y sistemas cuanticos compuestos.
-6. QFT, localidad relativista, cosmologia cuantica y gravedad cuantica.
+1. Glosario de fundamentos cuanticos.
+2. Cronologia del debate interpretativo.
+3. Matriz comparativa avanzada v2.
+4. Rutas de lectura por perfiles.
+5. Mantenimiento periodico de referencias y desarrollos recientes.
+6. Relectura de consistencia global del corpus tras la expansion `17`-`31`.
 
 ## Decisiones de estructura
 

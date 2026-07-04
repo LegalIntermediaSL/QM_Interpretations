@@ -4,6 +4,14 @@
 
 Este documento convierte el crecimiento del repositorio en un plan concreto. No es una lista abierta de ideas. Es un orden de trabajo recomendado para extender el contenido con profundidad real, minimizando duplicaciones y construyendo una base que haga mas faciles los articulos posteriores.
 
+## Estado actual
+
+Las monografias previstas en esta hoja para `17` a `31` ya existen en el repositorio. A partir de ahora, este documento queda como:
+
+- orden recomendado de lectura profunda
+- criterio para futuras revisiones y ampliaciones
+- backlog de infraestructura editorial transversal todavia pendiente
+
 ## Criterio de orden
 
 El orden optimo no es:
@@ -382,7 +390,7 @@ Frecuencia recomendada:
 4. Enlazar siempre con 3 a 5 articulos del repositorio ya existentes.
 5. Actualizar `docs/referencias-anotadas.md` y, si hace falta, `docs/bitacora.md`.
 
-## Orden recomendado si queremos profundidad real
+## Orden recomendado de lectura y futuras revisiones
 
 1. `17-decoherencia-bases-preferidas-y-mundo-clasico.md`
 2. `18-probabilidad-regla-de-born-y-significado-del-azar-cuantico.md`

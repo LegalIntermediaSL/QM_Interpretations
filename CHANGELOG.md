@@ -25,6 +25,9 @@ El formato sigue una estructura sencilla inspirada en Keep a Changelog, adaptada
 - Nuevo articulo sobre ontologia y significado de la realidad en fundamentos cuanticos.
 - Nuevo articulo sobre dimensiones del espacio-tiempo y su relacion con las interpretaciones cuanticas.
 - Nuevo articulo sobre identidad de particulas, indistinguibilidad y entrelazamiento.
+- Nuevo bloque monografico transversal sobre decoherencia, Born, estatuto de `psi`, hechos observados y sistemas cuanticos compuestos.
+- Nuevo bloque relativista y de frontera sobre QFT, localidad relativista, cosmologia cuantica y gravedad cuantica.
+- Nuevo bloque de descompresion sobre reconstrucciones informacionales, RQM, QBism, historias consistentes, retrocausalidad y Copenhague en detalle.
 - Ampliacion del `README` para reflejar la nueva estructura del proyecto.
 
 ### Changed
@@ -37,6 +40,7 @@ El formato sigue una estructura sencilla inspirada en Keep a Changelog, adaptada
 - El bloque sobre realidad se amplio con una pieza separada y mas ontologica, complementaria del articulo general sobre realidad en fisica actual.
 - El bloque geometrico-conceptual se amplio con una pieza separada sobre espacio-tiempo, configuracion y relatividad interpretativa.
 - El bloque ontologico-conceptual se amplio con una pieza separada sobre identidad, indistinguibilidad y el papel del entrelazamiento.
+- La hoja de ruta editorial profunda paso de ser solo plan de trabajo a funcionar tambien como registro del orden de lectura y revision del nuevo corpus `17`-`31`.
 
 ### Editorial
 
