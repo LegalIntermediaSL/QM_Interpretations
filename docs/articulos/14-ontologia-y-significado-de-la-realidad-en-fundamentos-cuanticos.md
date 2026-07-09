@@ -236,6 +236,8 @@ Este programa ha sido especialmente importante para:
 - GRWm
 - GRWf
 
+Por su peso propio en la literatura, el repositorio ahora lo desarrolla tambien en [Ontologia primitiva: materia, eventos y flashes](33-ontologia-primitiva-materia-eventos-y-flashes.md).
+
 ## 13. La funcion de onda como ley y no como cosa
 
 No todos los realistas sobre cuantica quieren convertir `psi` en un objeto material. Algunos prefieren leerla como:
@@ -401,6 +403,7 @@ Sin esa separacion, el lector corre el riesgo de discutir palabras grandes sin s
 
 - Para la pregunta general por que es una interpretacion, ve a [Que significa una interpretacion cuantica](00-que-significa-una-interpretacion-cuantica.md).
 - Para el marco mas amplio sobre realidad en fisica contemporanea, ve a [Que se entiende por realidad en la fisica actual](10-que-se-entiende-por-realidad-en-la-fisica-actual.md).
+- Para el programa de ontologia primitiva y su estructura comun en Bohm, GRWm y GRWf, ve a [Ontologia primitiva: materia, eventos y flashes](33-ontologia-primitiva-materia-eventos-y-flashes.md).
 - Para el frente de espacio-tiempo, configuracion y geometria interpretativa, ve a [Dimensiones del espacio-tiempo y su relacion con las interpretaciones cuanticas](15-dimensiones-del-espacio-tiempo-y-su-relacion-con-las-interpretaciones.md).
 - Para el problema de identidad, indistinguibilidad y prioridad de las relaciones, ve a [Identidad de particulas, indistinguibilidad y entrelazamiento](16-identidad-de-particulas-indistinguibilidad-y-entrelazamiento.md).
 - Para ontologias fuertes con variables o colapso, ve a [Mecanica bohmiana y variables ocultas](03-mecanica-bohmiana-y-variables-ocultas.md) y [Colapso objetivo: GRW, CSL y propuestas afines](05-colapso-objetivo-grw-csl-y-afines.md).

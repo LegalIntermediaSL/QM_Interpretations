@@ -126,6 +126,14 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
   - Referencia clasica del frente modal.
 - [Dennis Dieks, Probability in modal interpretations of quantum mechanics (arXiv:quant-ph/0703020)](https://arxiv.org/abs/quant-ph/0703020)
   - Buen texto para ver el desarrollo posterior del programa modal.
+- [Pieter E. Vermaas y Dennis Dieks, The modal interpretation of quantum mechanics and its generalization to density operators, Found. Phys. 25, 145-158 (1995)](https://link.springer.com/article/10.1007/BF02054662)
+  - Referencia clave para ver como el programa modal intenta salir del caso idealizado de estados puros y tratar sistemas mas generales.
+- Bas C. van Fraassen, *Quantum Mechanics: An Empiricist View*.
+  - Sigue siendo una referencia imprescindible para situar el arranque filosofico del enfoque modal y distinguirlo de variantes posteriores.
+- [Modal Interpretations of Quantum Mechanics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/qm-modal/)
+  - La mejor puerta de entrada secundaria para ordenar variantes, historia interna y problema de la probabilidad.
+- [The Contextual Character of Modal Interpretations of Quantum Mechanics (arXiv:0705.1660)](https://arxiv.org/abs/0705.1660)
+  - Muy util para el cruce entre modalismo, contextualidad y seleccion de observables definidos.
 - [John G. Cramer, The transactional interpretation of quantum mechanics, Rev. Mod. Phys. 58, 647 (1986)](https://link.aps.org/doi/10.1103/RevModPhys.58.647)
   - Referencia fundacional de la propuesta transaccional.
 - [Yakir Aharonov y Lev Vaidman, The Two-State Vector Formalism of Quantum Mechanics: an Updated Review (arXiv:quant-ph/0105101)](https://arxiv.org/abs/quant-ph/0105101)
@@ -210,14 +218,20 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
 
 - [Predictions and Primitive Ontology in Quantum Foundations: A Study of Examples (arXiv:1206.0019)](https://arxiv.org/abs/1206.0019)
   - Texto central para entender por que la exigencia de una ontologia primitiva ha sido tan influyente en el debate.
+- [Valia Allori, Sheldon Goldstein, Roderich Tumulka y Nino Zanghi, On the Common Structure of Bohmian Mechanics and the Ghirardi-Rimini-Weber Theory (arXiv:quant-ph/0603027)](https://arxiv.org/abs/quant-ph/0603027)
+  - Referencia decisiva para ver la estructura comun de BM, GRWm y GRWf mas alla de sus diferencias dinamicas.
 - [The primitive ontology of quantum physics: guidelines for an assessment of the proposals (arXiv:1406.0732)](https://arxiv.org/abs/1406.0732)
   - Muy util para leer criterios de comparacion entre ontologias cuanticas sin convertir el debate en pura preferencia estetica.
+- [Dustin Lazarovici y Paula Reichert, The Point of Primitive Ontology (arXiv:2211.08325)](https://arxiv.org/abs/2211.08325)
+  - Buen texto reciente para entender por que el programa insiste en el contacto entre teoria, prediccion y realidad observable.
 - [Quantum Mechanics on Spacetime I: Spacetime State Realism (arXiv:0907.5294)](https://arxiv.org/abs/0907.5294)
   - Referencia importante para el frente de realismo sobre el estado cuantico mas alla de la imagen clasica de objetos localizados.
 - [Einstein, incompleteness, and the epistemic view of quantum states (arXiv:0706.2661)](https://arxiv.org/abs/0706.2661)
   - Ayuda a situar con mayor profundidad el eje psi-ontico / psi-epistemico y su trasfondo historico.
 - [The Physics and Metaphysics of Primitive Stuff (arXiv:1411.7545)](https://arxiv.org/abs/1411.7545)
   - Muy util para el cruce entre ontologia primitiva y metafisica contemporanea.
+- [The GRW flash theory: a relativistic quantum ontology of matter in space-time? (arXiv:1310.5308)](https://arxiv.org/abs/1310.5308)
+  - Referencia importante para ver la variante eventiva y relativista del programa.
 
 ## 15. Espacio-tiempo, localidad y geometria interpretativa
 
@@ -257,8 +271,16 @@ Este documento reune referencias primarias y secundarias para llevar el reposito
   - Revision reciente, muy valiosa para abrir el frente QFT sin improvisar.
 - [Measurement in Quantum Field Theory (arXiv:2304.13356)](https://arxiv.org/abs/2304.13356)
   - Referencia importante para el cruce entre medicion, relatividad y QFT.
+- [Quantum fields and local measurements (arXiv:1810.06512)](https://arxiv.org/abs/1810.06512)
+  - Pieza fundacional para el marco de medicion local de Fewster y Verch.
+- [Eliminating the "impossible": Recent progress on local measurement theory for quantum field theory (arXiv:2307.08524)](https://arxiv.org/abs/2307.08524)
+  - Revision muy util para situar el estado del arte reciente del frente de medicion localizada.
+- [Particle Detectors from Localized Quantum Field Theories (arXiv:2308.11698)](https://arxiv.org/abs/2308.11698)
+  - Referencia fuerte para el puente entre detectores y teorias de campos localizadas.
 - [Localization in Quantum Field Theory (arXiv:2312.15348)](https://arxiv.org/abs/2312.15348)
   - Muy util para el problema de localizacion y para el paso desde Born hasta AQFT.
+- [Lectures on measurement in quantum field theory (arXiv:2504.17437)](https://arxiv.org/abs/2504.17437)
+  - Buena sintesis reciente para consolidar el frente de medicion localizada como tema propio.
 
 ## 18. Cosmologia cuantica, sistemas cerrados y gravedad cuantica
 

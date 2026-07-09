@@ -10,40 +10,60 @@ Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de 
 
 ### Indice de articulos largos
 
+#### Puerta de entrada y mapa general
+
 - [Que significa una interpretacion cuantica](articulos/00-que-significa-una-interpretacion-cuantica.md)
 - [Fundamentos, medicion y estructura del problema](articulos/01-fundamentos-medicion-y-estructura-del-problema.md)
+- [Matriz comparativa avanzada](matriz-comparativa-avanzada.md)
+- [Matriz comparativa avanzada v2](matriz-comparativa-avanzada-v2.md)
+
+#### Familias interpretativas principales
+
 - [Copenhague, instrumentalismo y lecturas de conjunto](articulos/02-copenhague-instrumentalismo-y-conjunto.md)
+- [Copenhague, Bohr, Heisenberg y lecturas tardias](articulos/31-copenhague-bohr-heisenberg-y-lecturas-tardias.md)
 - [Mecanica bohmiana y variables ocultas](articulos/03-mecanica-bohmiana-y-variables-ocultas.md)
 - [Everett, ramificacion y muchos mundos](articulos/04-everett-ramificacion-y-muchos-mundos.md)
 - [Colapso objetivo: GRW, CSL y propuestas afines](articulos/05-colapso-objetivo-grw-csl-y-afines.md)
 - [Relacional, QBism y enfoques informacionales](articulos/06-relacional-qbism-e-informacionales.md)
-- [Bell, contextualidad y teoremas de no-go](articulos/07-bell-contextualidad-y-teoremas-de-no-go.md)
+- [RQM en detalle: hechos relativos y consistencia intersubjetiva](articulos/27-rqm-en-detalle-hechos-relativos-y-consistencia-intersubjetiva.md)
+- [QBism en detalle: agencia, probabilidad y realidad](articulos/28-qbism-en-detalle-agencia-probabilidad-y-realidad.md)
+- [Historias consistentes y marcos decoherentes](articulos/29-historias-consistentes-y-marcos-decoherentes.md)
+- [Interpretaciones modales: propiedades definidas y seleccion de observables](articulos/32-interpretaciones-modales-propiedades-definidas-y-seleccion-de-observables.md)
+- [Retrocausalidad, transaccional y superdeterminismo](articulos/30-retrocausalidad-transaccional-y-superdeterminismo.md)
 - [Historias, modales, retrocausales y propuestas heterodoxas](articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
-- [Introduccion al multiverso, las multiples historias y la simulacion](articulos/09-multiverso-muchas-historias-y-simulacion.md)
+
+#### Ontologia, realidad y problemas transversales
+
+- [Bell, contextualidad y teoremas de no-go](articulos/07-bell-contextualidad-y-teoremas-de-no-go.md)
 - [Que se entiende por realidad en la fisica actual](articulos/10-que-se-entiende-por-realidad-en-la-fisica-actual.md)
 - [Observador, conciencia y medicion en mecanica cuantica](articulos/11-observador-conciencia-y-medicion-en-mecanica-cuantica.md)
 - [Tiempo, fase y estructura temporal en mecanica cuantica](articulos/12-tiempo-fase-y-estructura-temporal-en-mecanica-cuantica.md)
-- [Desarrollos recientes en fundamentos e interpretaciones cuanticas](articulos/13-desarrollos-recientes-en-fundamentos-e-interpretaciones-cuanticas.md)
 - [Ontologia y significado de la realidad en fundamentos cuanticos](articulos/14-ontologia-y-significado-de-la-realidad-en-fundamentos-cuanticos.md)
-- [Dimensiones del espacio-tiempo y su relacion con las interpretaciones cuanticas](articulos/15-dimensiones-del-espacio-tiempo-y-su-relacion-con-las-interpretaciones.md)
+- [Ontologia primitiva: materia, eventos y flashes](articulos/33-ontologia-primitiva-materia-eventos-y-flashes.md)
 - [Identidad de particulas, indistinguibilidad y entrelazamiento](articulos/16-identidad-de-particulas-indistinguibilidad-y-entrelazamiento.md)
 - [Decoherencia, bases preferidas y mundo clasico](articulos/17-decoherencia-bases-preferidas-y-mundo-clasico.md)
 - [Probabilidad, regla de Born y significado del azar cuantico](articulos/18-probabilidad-regla-de-born-y-significado-del-azar-cuantico.md)
 - [La funcion de onda: estatuto ontologico, semantico y nomologico](articulos/19-la-funcion-de-onda-estatuto-ontologico-semantico-y-nomologico.md)
 - [Hechos observados, amigo de Wigner y autorreferencia](articulos/20-hechos-observados-amigo-de-wigner-y-autorreferencia.md)
 - [Separabilidad, composicionalidad y sistemas cuanticos compuestos](articulos/21-separabilidad-composicionalidad-y-sistemas-cuanticos-compuestos.md)
+
+#### Frontera relativista, de campos y cosmologica
+
+- [Dimensiones del espacio-tiempo y su relacion con las interpretaciones cuanticas](articulos/15-dimensiones-del-espacio-tiempo-y-su-relacion-con-las-interpretaciones.md)
 - [Interpretaciones y teoria cuantica de campos](articulos/22-interpretaciones-y-teoria-cuantica-de-campos.md)
+- [Medicion localizada, detectores y causalidad en QFT](articulos/34-medicion-localizada-detectores-y-causalidad-en-qft.md)
 - [Localidad, causalidad y covarianza relativista](articulos/23-localidad-causalidad-y-covarianza-relativista.md)
 - [Cosmologia cuantica y universo como sistema cerrado](articulos/24-cosmologia-cuantica-y-universo-como-sistema-cerrado.md)
 - [Gravedad cuantica y problema del tiempo](articulos/25-gravedad-cuantica-y-problema-del-tiempo.md)
+
+#### Cruces, extensiones y seguimiento
+
+- [Introduccion al multiverso, las multiples historias y la simulacion](articulos/09-multiverso-muchas-historias-y-simulacion.md)
+- [Desarrollos recientes en fundamentos e interpretaciones cuanticas](articulos/13-desarrollos-recientes-en-fundamentos-e-interpretaciones-cuanticas.md)
 - [Reconstrucciones informacionales y quantum from principles](articulos/26-reconstrucciones-informacionales-y-quantum-from-principles.md)
-- [RQM en detalle: hechos relativos y consistencia intersubjetiva](articulos/27-rqm-en-detalle-hechos-relativos-y-consistencia-intersubjetiva.md)
-- [QBism en detalle: agencia, probabilidad y realidad](articulos/28-qbism-en-detalle-agencia-probabilidad-y-realidad.md)
-- [Historias consistentes y marcos decoherentes](articulos/29-historias-consistentes-y-marcos-decoherentes.md)
-- [Retrocausalidad, transaccional y superdeterminismo](articulos/30-retrocausalidad-transaccional-y-superdeterminismo.md)
-- [Copenhague, Bohr, Heisenberg y lecturas tardias](articulos/31-copenhague-bohr-heisenberg-y-lecturas-tardias.md)
-- [Matriz comparativa avanzada](matriz-comparativa-avanzada.md)
-- [Matriz comparativa avanzada v2](matriz-comparativa-avanzada-v2.md)
+
+#### Herramientas de navegacion y apoyo
+
 - [Glosario de fundamentos cuanticos](glosario-fundamentos-cuanticos.md)
 - [Cronologia del debate interpretativo](cronologia-del-debate-interpretativo.md)
 - [Rutas de lectura por perfiles](rutas-de-lectura-por-perfiles.md)
@@ -51,6 +71,7 @@ Esta guia ya no trabaja sola. Ahora funciona como documento maestro y puerta de 
 - [Estudios de caso experimentales e interpretacion](estudios-de-caso-experimentales-e-interpretacion.md)
 - [Referencias anotadas para interpretaciones de la mecanica cuantica](referencias-anotadas.md)
 - [Hoja de ruta editorial profunda](hoja-de-ruta-editorial-profunda.md)
+- [Bitacora editorial](bitacora.md)
 
 ### Como se reparten las funciones
 

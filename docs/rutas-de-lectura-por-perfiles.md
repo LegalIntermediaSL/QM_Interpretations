@@ -60,10 +60,12 @@ Las siguientes rutas ayudan a entrar al repositorio sin perder profundidad ni ca
 1. [Fundamentos, medicion y estructura del problema](articulos/01-fundamentos-medicion-y-estructura-del-problema.md)
 2. [Mecanica bohmiana y variables ocultas](articulos/03-mecanica-bohmiana-y-variables-ocultas.md)
 3. [Colapso objetivo: GRW, CSL y propuestas afines](articulos/05-colapso-objetivo-grw-csl-y-afines.md)
-4. [La funcion de onda: estatuto ontologico, semantico y nomologico](articulos/19-la-funcion-de-onda-estatuto-ontologico-semantico-y-nomologico.md)
-5. [Ontologia y significado de la realidad en fundamentos cuanticos](articulos/14-ontologia-y-significado-de-la-realidad-en-fundamentos-cuanticos.md)
-6. [Localidad, causalidad y covarianza relativista](articulos/23-localidad-causalidad-y-covarianza-relativista.md)
-7. [Interpretaciones y teoria cuantica de campos](articulos/22-interpretaciones-y-teoria-cuantica-de-campos.md)
+4. [Ontologia primitiva: materia, eventos y flashes](articulos/33-ontologia-primitiva-materia-eventos-y-flashes.md)
+5. [La funcion de onda: estatuto ontologico, semantico y nomologico](articulos/19-la-funcion-de-onda-estatuto-ontologico-semantico-y-nomologico.md)
+6. [Ontologia y significado de la realidad en fundamentos cuanticos](articulos/14-ontologia-y-significado-de-la-realidad-en-fundamentos-cuanticos.md)
+7. [Localidad, causalidad y covarianza relativista](articulos/23-localidad-causalidad-y-covarianza-relativista.md)
+8. [Interpretaciones y teoria cuantica de campos](articulos/22-interpretaciones-y-teoria-cuantica-de-campos.md)
+9. [Medicion localizada, detectores y causalidad en QFT](articulos/34-medicion-localizada-detectores-y-causalidad-en-qft.md)
 
 ### Pregunta central
 
@@ -142,9 +144,10 @@ Las siguientes rutas ayudan a entrar al repositorio sin perder profundidad ni ca
 1. [Bell, contextualidad y teoremas de no-go](articulos/07-bell-contextualidad-y-teoremas-de-no-go.md)
 2. [Separabilidad, composicionalidad y sistemas cuanticos compuestos](articulos/21-separabilidad-composicionalidad-y-sistemas-cuanticos-compuestos.md)
 3. [Localidad, causalidad y covarianza relativista](articulos/23-localidad-causalidad-y-covarianza-relativista.md)
-4. [Retrocausalidad, transaccional y superdeterminismo](articulos/30-retrocausalidad-transaccional-y-superdeterminismo.md)
-5. [Dimensiones del espacio-tiempo y su relacion con las interpretaciones cuanticas](articulos/15-dimensiones-del-espacio-tiempo-y-su-relacion-con-las-interpretaciones.md)
-6. [Matriz comparativa avanzada v2](matriz-comparativa-avanzada-v2.md)
+4. [Medicion localizada, detectores y causalidad en QFT](articulos/34-medicion-localizada-detectores-y-causalidad-en-qft.md)
+5. [Retrocausalidad, transaccional y superdeterminismo](articulos/30-retrocausalidad-transaccional-y-superdeterminismo.md)
+6. [Dimensiones del espacio-tiempo y su relacion con las interpretaciones cuanticas](articulos/15-dimensiones-del-espacio-tiempo-y-su-relacion-con-las-interpretaciones.md)
+7. [Matriz comparativa avanzada v2](matriz-comparativa-avanzada-v2.md)
 
 ### Pregunta central
 
@@ -226,19 +229,44 @@ Las siguientes rutas ayudan a entrar al repositorio sin perder profundidad ni ca
 5. [Separabilidad, composicionalidad y sistemas cuanticos compuestos](articulos/21-separabilidad-composicionalidad-y-sistemas-cuanticos-compuestos.md)
 6. [Interpretaciones y teoria cuantica de campos](articulos/22-interpretaciones-y-teoria-cuantica-de-campos.md)
 7. [Localidad, causalidad y covarianza relativista](articulos/23-localidad-causalidad-y-covarianza-relativista.md)
-8. [Cosmologia cuantica y universo como sistema cerrado](articulos/24-cosmologia-cuantica-y-universo-como-sistema-cerrado.md)
-9. [Gravedad cuantica y problema del tiempo](articulos/25-gravedad-cuantica-y-problema-del-tiempo.md)
-10. [Reconstrucciones informacionales y quantum from principles](articulos/26-reconstrucciones-informacionales-y-quantum-from-principles.md)
-11. [RQM en detalle: hechos relativos y consistencia intersubjetiva](articulos/27-rqm-en-detalle-hechos-relativos-y-consistencia-intersubjetiva.md)
-12. [QBism en detalle: agencia, probabilidad y realidad](articulos/28-qbism-en-detalle-agencia-probabilidad-y-realidad.md)
-13. [Historias consistentes y marcos decoherentes](articulos/29-historias-consistentes-y-marcos-decoherentes.md)
-14. [Retrocausalidad, transaccional y superdeterminismo](articulos/30-retrocausalidad-transaccional-y-superdeterminismo.md)
-15. [Copenhague, Bohr, Heisenberg y lecturas tardias](articulos/31-copenhague-bohr-heisenberg-y-lecturas-tardias.md)
-16. [Preguntas frecuentes de fundamentos cuanticos](preguntas-frecuentes-de-fundamentos-cuanticos.md)
+8. [Ontologia primitiva: materia, eventos y flashes](articulos/33-ontologia-primitiva-materia-eventos-y-flashes.md)
+9. [Cosmologia cuantica y universo como sistema cerrado](articulos/24-cosmologia-cuantica-y-universo-como-sistema-cerrado.md)
+10. [Gravedad cuantica y problema del tiempo](articulos/25-gravedad-cuantica-y-problema-del-tiempo.md)
+11. [Reconstrucciones informacionales y quantum from principles](articulos/26-reconstrucciones-informacionales-y-quantum-from-principles.md)
+12. [RQM en detalle: hechos relativos y consistencia intersubjetiva](articulos/27-rqm-en-detalle-hechos-relativos-y-consistencia-intersubjetiva.md)
+13. [QBism en detalle: agencia, probabilidad y realidad](articulos/28-qbism-en-detalle-agencia-probabilidad-y-realidad.md)
+14. [Historias consistentes y marcos decoherentes](articulos/29-historias-consistentes-y-marcos-decoherentes.md)
+15. [Interpretaciones modales: propiedades definidas y seleccion de observables](articulos/32-interpretaciones-modales-propiedades-definidas-y-seleccion-de-observables.md)
+16. [Retrocausalidad, transaccional y superdeterminismo](articulos/30-retrocausalidad-transaccional-y-superdeterminismo.md)
+17. [Copenhague, Bohr, Heisenberg y lecturas tardias](articulos/31-copenhague-bohr-heisenberg-y-lecturas-tardias.md)
+18. [Medicion localizada, detectores y causalidad en QFT](articulos/34-medicion-localizada-detectores-y-causalidad-en-qft.md)
+19. [Preguntas frecuentes de fundamentos cuanticos](preguntas-frecuentes-de-fundamentos-cuanticos.md)
 
 ### Pregunta central
 
 - como se reparte de verdad el coste conceptual cuando ya no estamos en la capa introductoria
+
+## 11. Ruta modal y mundo unico sin colapso
+
+### Para quien
+
+- lector atraido por una salida de mundo unico sin muchos mundos
+- lector que quiere propiedades definidas sin dinamica de colapso
+- lector interesado en el cruce entre contextualidad, probabilidad y ontologia delgada
+
+### Orden recomendado
+
+1. [Historias, modales, retrocausales y propuestas heterodoxas](articulos/08-historias-modales-retrocausales-y-propuestas-heterodoxas.md)
+2. [Interpretaciones modales: propiedades definidas y seleccion de observables](articulos/32-interpretaciones-modales-propiedades-definidas-y-seleccion-de-observables.md)
+3. [Historias consistentes y marcos decoherentes](articulos/29-historias-consistentes-y-marcos-decoherentes.md)
+4. [Everett, ramificacion y muchos mundos](articulos/04-everett-ramificacion-y-muchos-mundos.md)
+5. [Decoherencia, bases preferidas y mundo clasico](articulos/17-decoherencia-bases-preferidas-y-mundo-clasico.md)
+6. [La funcion de onda: estatuto ontologico, semantico y nomologico](articulos/19-la-funcion-de-onda-estatuto-ontologico-semantico-y-nomologico.md)
+7. [Ontologia y significado de la realidad en fundamentos cuanticos](articulos/14-ontologia-y-significado-de-la-realidad-en-fundamentos-cuanticos.md)
+
+### Pregunta central
+
+- puede haber un mundo unico, sin colapso y sin multiplicacion de ramas, manteniendo aun asi propiedades definidas con una regla no arbitraria
 
 ## Cierre
 

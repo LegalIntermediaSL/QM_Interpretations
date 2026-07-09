@@ -36,6 +36,14 @@ A fecha actual, el repositorio ya cubre con solidez:
 
 Lo que falta no es el mapa basico. Lo que falta es la segunda capa profunda.
 
+Desde la ultima revision profunda, el repositorio ya incorpora tambien:
+
+- `docs/articulos/32-interpretaciones-modales-propiedades-definidas-y-seleccion-de-observables.md`
+- `docs/articulos/33-ontologia-primitiva-materia-eventos-y-flashes.md`
+- `docs/articulos/34-medicion-localizada-detectores-y-causalidad-en-qft.md`
+
+Eso marca una fase nueva: ya no solo desdoblamos familias grandes, sino nudos tecnicos y ontologicos que organizan varias familias a la vez.
+
 ## Fase 1: Nucleo transversal
 
 Esta fase debe venir primero porque cada una de estas piezas alimenta muchas de las demas.
@@ -389,6 +397,50 @@ Frecuencia recomendada:
 
 - cada 4 a 6 meses
 
+## Fase 5: Profundizacion de segundo orden
+
+Esta fase ya no persigue cubrir huecos enormes del mapa. Persigue cerrar zonas donde el corpus ya es fuerte, pero todavia podia afinar mejor la arquitectura del debate.
+
+### Prioridad 21
+
+`docs/articulos/32-interpretaciones-modales-propiedades-definidas-y-seleccion-de-observables.md`
+
+Objetivo:
+
+- sacar el programa modal del articulo panoramico `08`
+- desarrollar seleccion de observables, propiedades definidas, matrices de densidad y diferencia con Everett
+
+### Prioridad 22
+
+`docs/articulos/33-ontologia-primitiva-materia-eventos-y-flashes.md`
+
+Objetivo:
+
+- convertir la ontologia primitiva en eje transversal propio
+- comparar BM, GRWm y GRWf como variantes de una misma estructura general
+
+### Prioridad 23
+
+`docs/articulos/34-medicion-localizada-detectores-y-causalidad-en-qft.md`
+
+Objetivo:
+
+- descomprimir el articulo `22`
+- dar entidad propia al frente de detectores, localizacion, actualizacion de estados y causalidad relativista
+
+### Prioridad 24
+
+Reindexacion de:
+
+- `docs/guia-interpretaciones-mecanica-cuantica.md`
+- `docs/rutas-de-lectura-por-perfiles.md`
+- `docs/referencias-anotadas.md`
+
+Objetivo:
+
+- hacer navegable un corpus que ya no puede sostenerse con indices planos
+- y asegurar que cada nueva monografia cambie tambien la forma de recorrer el repositorio
+
 ## Regla de trabajo para cada nueva monografia
 
 1. Definir con una frase que problema exacto resuelve el articulo.
@@ -414,7 +466,10 @@ Frecuencia recomendada:
 13. `29-historias-consistentes-y-marcos-decoherentes.md`
 14. `30-retrocausalidad-transaccional-y-superdeterminismo.md`
 15. `31-copenhague-bohr-heisenberg-y-lecturas-tardias.md`
-16. infraestructura editorial
+16. `32-interpretaciones-modales-propiedades-definidas-y-seleccion-de-observables.md`
+17. `33-ontologia-primitiva-materia-eventos-y-flashes.md`
+18. `34-medicion-localizada-detectores-y-causalidad-en-qft.md`
+19. infraestructura editorial
 
 ## Cierre
 

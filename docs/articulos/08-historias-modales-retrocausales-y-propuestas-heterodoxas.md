@@ -250,12 +250,13 @@ El debate real es mas rico, y tambien mas desigual en madurez.
 
 ## 31. Por que este articulo ahora se desdobla
 
-Con el crecimiento del repositorio, este texto deja de cargar en solitario con dos frentes conceptuales muy distintos:
+Con el crecimiento del repositorio, este texto deja de cargar en solitario con tres frentes conceptuales distintos:
 
 - [Historias consistentes y marcos decoherentes](29-historias-consistentes-y-marcos-decoherentes.md), para la familia que reorganiza la teoria en torno a historias, consistencia y sistemas cerrados.
+- [Interpretaciones modales: propiedades definidas y seleccion de observables](32-interpretaciones-modales-propiedades-definidas-y-seleccion-de-observables.md), para el programa que intenta conservar mundo unico, formalismo estandar y propiedades actuales sin colapso fundamental.
 - [Retrocausalidad, transaccional y superdeterminismo](30-retrocausalidad-transaccional-y-superdeterminismo.md), para las estrategias que redistribuyen el coste de Bell hacia tiempo, causalidad e independencia estadistica.
 
-La descompresion no debilita este articulo. Lo vuelve mas honesto: sigue siendo la vista panoramica del bloque heterodoxo, mientras que las dos nuevas piezas absorben la precision que antes no cabia aqui.
+La descompresion no debilita este articulo. Lo vuelve mas honesto: sigue siendo la vista panoramica del bloque heterodoxo, mientras que las tres piezas especializadas absorben la precision que antes no cabia aqui.
 
 ## Cierre
 

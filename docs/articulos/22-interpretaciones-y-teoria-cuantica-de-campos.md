@@ -259,21 +259,33 @@ Olvidar que el vacio cuantico ya plantea problemas composicionales y ontologicos
 4. Si puede formular medicion sin corte clasico absoluto.
 5. Como conecta con cosmologia y espacio-tiempo.
 
-## 18. Puentes hacia otros articulos
+## 18. Medicion localizada como frontera propia
 
+Con el crecimiento del repositorio, la medicion en QFT ya no se trata aqui solo como una subseccion compacta. Merece un desarrollo propio porque concentra varios de los problemas mas finos del frente relativista:
+
+- detectores localizados
+- actualizacion de estados
+- microcausalidad
+- localizacion de registros
+- diferencia entre particulas detectadas y particulas fundamentales
+
+Por eso este articulo debe leerse en tandem con [Medicion localizada, detectores y causalidad en QFT](34-medicion-localizada-detectores-y-causalidad-en-qft.md), que desarrolla ese nudo con mucho mas detalle.
+
+## 19. Puentes hacia otros articulos
+
+- Para localidad, causalidad y covarianza, ve a [Localidad, causalidad y covarianza relativista](23-localidad-causalidad-y-covarianza-relativista.md).
 - Para espacio-tiempo y geometria interpretativa, ve a [Dimensiones del espacio-tiempo y su relacion con las interpretaciones cuanticas](15-dimensiones-del-espacio-tiempo-y-su-relacion-con-las-interpretaciones.md).
-- Para localidad y covarianza, ve a [Localidad, causalidad y covarianza relativista](23-localidad-causalidad-y-covarianza-relativista.md).
-- Para sistemas compuestos y no separabilidad, ve a [Separabilidad, composicionalidad y sistemas cuanticos compuestos](21-separabilidad-composicionalidad-y-sistemas-cuanticos-compuestos.md).
-- Para cosmologia cuantica, ve a [Cosmologia cuantica y universo como sistema cerrado](24-cosmologia-cuantica-y-universo-como-sistema-cerrado.md).
-- Para gravedad cuantica y tiempo profundo, ve a [Gravedad cuantica y problema del tiempo](25-gravedad-cuantica-y-problema-del-tiempo.md).
+- Para ontologia primitiva y eventos localizados, ve a [Ontologia primitiva: materia, eventos y flashes](33-ontologia-primitiva-materia-eventos-y-flashes.md).
+- Para medicion localizada y detectores, ve a [Medicion localizada, detectores y causalidad en QFT](34-medicion-localizada-detectores-y-causalidad-en-qft.md).
+- Para cosmologia cuantica y sistemas cerrados, ve a [Cosmologia cuantica y universo como sistema cerrado](24-cosmologia-cuantica-y-universo-como-sistema-cerrado.md).
 
-## 19. Referencias recomendadas para seguir
+## 20. Referencias recomendadas para seguir
 
-- Halvorson y Clifton, para el frente particulas vs campos.
-- literatura de AQFT para localidad y estructura algebraica.
-- Buchholz y Fredenhagen, para debates contemporaneos sobre interpretacion de QFT.
-- trabajos recientes sobre medicion y localizacion en teoria de campos.
-- La [bibliografia anotada del repositorio](../referencias-anotadas.md), en especial los bloques sobre QFT, espacio-tiempo y relatividad.
+- Halvorson y Clifton, para el problema de particulas en teorias relativistas.
+- introducciones a AQFT, para la arquitectura local del frente.
+- Fewster y Verch, para medicion local en QFT.
+- literatura sobre localizacion y detectores, para no identificar demasiado rapido particulas, registros y ontologia.
+- La [bibliografia anotada del repositorio](../referencias-anotadas.md), en especial el bloque 17.
 
 ## Cierre
 
